@@ -1,0 +1,199 @@
+{# TEMPLATE VAR SETTINGS #} {%- set url_root = pathto('', 1) %} {%- if url_root == '#' %}{% set url_root = '' %}{% endif %} {%- if not embedded and docstitle %} {%- set titlesuffix = " &mdash; "|safe + docstitle|e %} {%- else %} {%- set titlesuffix =
+"" %} {%- endif %}
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8"> {{ metatags }}
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> {% block htmltitle %}
+    <title>{{ title|striptags|e }}{{ titlesuffix }}</title>
+    {% endblock %} {# FAVICON #} {% if favicon %}
+    <link rel="shortcut icon" href="{{ pathto('_static/' + favicon, 1) }}" /> {% endif %} {# CANONICAL URL #} {% if theme_canonical_url %}
+    <link rel="canonical" href="{{ theme_canonical_url }}{{ pagename }}.html" /> {% endif %} {# CSS #} {# OPENSEARCH #} {% if not embedded %} {% if use_opensearch %}
+    <link rel="search" type="application/opensearchdescription+xml" title="{% trans docstitle=docstitle|e %}Search within {{ docstitle }}{% endtrans %}" href="{{ pathto('_static/opensearch.xml', 1) }}" /> {% endif %} {% endif %} {# RTD hosts this file, so just load on non RTD builds #} {% if not READTHEDOCS %}
+    <link rel="stylesheet" href="{{ pathto('_static/' + style, 1) }}" type="text/css" />
+    <link rel="stylesheet" href="{{ pathto('_static/' + theme_custom, 1) }}" type="text/css" /> {% endif %} {% for cssfile in css_files %}
+    <link rel="stylesheet" href="{{ pathto(cssfile, 1) }}" type="text/css" /> {% endfor %} {% for cssfile in extra_css_files %}
+    <link rel="stylesheet" href="{{ pathto(cssfile, 1) }}" type="text/css" /> {% endfor %} {%- block linktags %} {%- if hasdoc('about') %}
+    <link rel="author" title="{{ _('About these documents') }}" href="{{ pathto('about') }}" /> {%- endif %} {%- if hasdoc('genindex') %}
+    <link rel="index" title="{{ _('Index') }}" href="{{ pathto('genindex') }}" /> {%- endif %} {%- if hasdoc('search') %}
+    <link rel="search" title="{{ _('Search') }}" href="{{ pathto('search') }}" /> {%- endif %} {%- if hasdoc('copyright') %}
+    <link rel="copyright" title="{{ _('Copyright') }}" href="{{ pathto('copyright') }}" /> {%- endif %}
+    <link rel="top" title="{{ docstitle|e }}" href="{{ pathto('index') }}" /> {%- if parents %}
+    <link rel="up" title="{{ parents[-1].title|striptags|e }}" href="{{ parents[-1].link|e }}" /> {%- endif %} {%- if next %}
+    <link rel="next" title="{{ next.title|striptags|e }}" href="{{ next.link|e }}" /> {%- endif %} {%- if prev %}
+    <link rel="prev" title="{{ prev.title|striptags|e }}" href="{{ prev.link|e }}" /> {%- endif %} {%- endblock %} {%- block extrahead %} {% endblock %} {# Keep modernizr in head - http://modernizr.com/docs/#installing #}
+    <script src="{{ pathto('_static/js/modernizr.min.js', 1) }}"></script>
+    <link href="https://fonts.googleapis.com/css?family=Titillium+Web:200,300,400,600,700,900" rel="stylesheet">
+
+</head>
+
+<body class="wy-body-for-nav" role="document">
+<div id="slimheader">
+    {% include "offcanvas.html" %}
+    <div class="sh__wrapper">
+    <div class="sh__institutional">
+        <a class="pushy-menu-btn menu-btn" href="#"><img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMTkuMnB4IiBoZWlnaHQ9IjE2cHgiIHZpZXdCb3g9IjAgMCAxMiAxMCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDxkZWZzPjwvZGVmcz4KICAgIDxnIGlkPSIxMDI0dXAiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxnIGlkPSItLWhvbWUtLS1wYXJhbGxheC0tLW1vYmlsZSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTI0LjAwMDAwMCwgLTIwLjAwMDAwMCkiIGZpbGw9IiNGRkZGRkYiPgogICAgICAgICAgICA8ZyBpZD0iLW5ldHdvcmstc2xpbS1oZWFkZXIiPgogICAgICAgICAgICAgICAgPHBhdGggZD0iTTI0LDI0IEwzNiwyNCBMMzYsMjYgTDI0LDI2IEwyNCwyNCBaIE0yNCwyMCBMMzIsMjAgTDMyLDIyIEwyNCwyMiBMMjQsMjAgWiBNMjQsMjggTDMyLDI4IEwzMiwzMCBMMjQsMzAgTDI0LDI4IFoiIGlkPSJpY29uLXNtYWxsLWJ1cmdlciI+PC9wYXRoPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4="></a>
+
+        <a href="http://www.agid.gov.it/" title="Agid">Agenzia per l'Italia Digitale</a>
+    </div><!--/sh__institutional-->
+    <div class="sh__tabs">
+    <ul class="sh__tabsul">
+      <li class="network-title delimiter">Task force IA
+        <img class="u-alignTop u-margin-left-s u-margin-right-s" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDIxLjAuMiwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxpdmVsbG9fMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiCgkgd2lkdGg9IjY4cHgiIGhlaWdodD0iNjJweCIgdmlld0JveD0iMCAwIDY4IDYyIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA2OCA2MjsiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPgoJLnN0MHtmaWxsOiNGRkZGRkY7fQo8L3N0eWxlPgo8cGF0aCBpZD0iRmlsbC0xIiBjbGFzcz0ic3QwIiBkPSJNNTkuNSwwQzY0LjIsMCw2OCwzLjgsNjgsOC40VjYyaC04LjVWMTEuMmMwLTEuNS0xLjMtMi44LTIuOC0yLjhIMTEuM2MtMS42LDAtMi44LDEuMy0yLjgsMi44VjYyCglIMFY4LjRDMCwzLjgsMy44LDAsOC41LDBINTkuNXoiLz4KPHBvbHlnb24gaWQ9IkZpbGwtNCIgY2xhc3M9InN0MCIgcG9pbnRzPSIzMC4zLDYyIDM4LjYsNjIgMzguNiwyOC4zIDMwLjMsMjguMyAiLz4KPHBhdGggaWQ9IkZpbGwtNiIgY2xhc3M9InN0MCIgZD0iTTI1LjcsMzEuNWMwLTIuMy0xLjktNC4xLTQuMS00LjFzLTQuMSwxLjgtNC4xLDQuMXMxLjksNC4xLDQuMSw0LjFTMjUuNywzMy43LDI1LjcsMzEuNSIvPgo8L3N2Zz4K">
+      </li>
+      <li class=""><a href="https://ia.italia.it/">Web</a></li>
+      <li class=""><a href="https://ia.italia.it/community/">Community</a></li>
+      <li class="current"><a href="https://whitepaper-ia.readthedocs.io/">White paper</a></li>
+    </ul>
+    </div><!--/.sh__tabs-->
+		<div class="burger" data-toggle="wy-nav-top">
+		  <img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCAzMiAzMiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMzIgMzI7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+DQoJLnN0MHtmaWxsOiNGRkZGRkY7fQ0KPC9zdHlsZT4NCjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik02LjEsOC45bDE3LDE3YzAuOCwwLjgsMi4xLDAuOCwyLjgsMGMwLjgtMC44LDAuOC0yLjEsMC0yLjhsLTE3LTE3Yy0wLjgtMC44LTIuMS0wLjgtMi44LDBTNS4zLDguMiw2LjEsOC45eiINCgkvPg0KPHBhdGggY2xhc3M9InN0MCIgZD0iTTIzLjEsNi4xbC0xNywxN2MtMC44LDAuOC0wLjgsMi4xLDAsMi44YzAuOCwwLjgsMi4xLDAuOCwyLjgsMGwxNy0xN2MwLjgtMC44LDAuOC0yLjEsMC0yLjgNCglDMjUuMSw1LjMsMjMuOCw1LjMsMjMuMSw2LjF6Ii8+DQo8L3N2Zz4=">
+		</div>
+    </div><!--/.wrapper-->
+</div><!--/#slimheader-->
+
+
+    {% block extrabody %} {% endblock %}
+    <div class="wy-grid-for-nav">
+
+        {# SIDE NAV, TOGGLES ON MOBILE #}
+        <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+            <div class="wy-side-scroll">
+                <div class="wy-side-nav-search">
+                    {% block sidebartitle %}
+                    <div class="branding clearfix">
+                        <div class="branding--logo">
+                            <a href="https://ia.italia.it">
+                              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="68px" height="62px" viewBox="0 0 68 62" style="enable-background:new 0 0 68 62;" xml:space="preserve">
+                                <style type="text/css">
+                                  .st0{fill:#FFFFFF;}
+                                </style>
+                                <path id="Fill-1" class="st0" d="M59.5,0C64.2,0,68,3.8,68,8.4V62h-8.5V11.2c0-1.5-1.3-2.8-2.8-2.8H11.3c-1.6,0-2.8,1.3-2.8,2.8V62 H0V8.4C0,3.8,3.8,0,8.5,0H59.5z"/>
+                                <polygon id="Fill-4" class="st0" points="30.3,62 38.6,62 38.6,28.3 30.3,28.3 "/>
+                                <path id="Fill-6" class="st0" d="M25.7,31.5c0-2.3-1.9-4.1-4.1-4.1s-4.1,1.8-4.1,4.1s1.9,4.1,4.1,4.1S25.7,33.7,25.7,31.5"/>
+                              </svg>
+                          </a>
+                        </div>
+                        <!--
+                        <div class="branding--content">
+                            <h2 class="branding--title">
+                                <span class="branding--title--branch">/ <a href="https://ai.italia.it">docs</a></span>
+                            </h2>
+                        </div>
+                        -->
+                    </div>
+
+                    {% if logo %}
+                    <a href="{{ pathto(master_doc) }}">
+                    {# Not strictly valid HTML, but it's the only way to display/scale it properly, without weird scripting or heaps of work #}
+                    <img src="{{ pathto('_static/' + logo, 1) }}" class="logo" />
+                    </a>
+                    {% endif %}
+                    {% if theme_logo_only %}
+                    {% else %}
+                    <h1 class="project-title"><a href="{{ pathto(master_doc) }}" > {{ project }} </a>
+                      {% if theme_display_version %} {%- set nav_version = version %} {% if READTHEDOCS and false %} {%- set nav_version = current_version %} {% endif %}
+                        {% if nav_version %}
+                        <br/><small>versione: </small><span class="version">{{ nav_version }}</span>
+                    </h1>
+                    {% endif %} {% endif %} {% endif %} {% include "searchbox.html" %} {% endblock %}
+                </div>
+
+                <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+                  {% block menu %} {# The singlehtml builder doesn't handle this toctree call when the toctree is empty. Skip building this for now. #}
+                  {% if 'singlehtml' not in builder %}
+                    {% set global_toc = toctree(maxdepth = theme_navigation_depth|int, collapse = False, includehidden = False) %}
+                  {% endif %}
+                    {% if global_toc %}
+                      {{ global_toc }}
+                    {% else %}
+                    <!-- Local TOC -->
+                    <div class="local-toc">{{ toc }}</div>
+                    {% endif %}
+                    {% endblock %}
+                </div>
+            </div>
+        </nav>
+
+        <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+            {# MOBILE NAV, TRIGGLES SIDE NAV ON TOGGLE #}
+            <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+				    {% block mobile_nav %}
+                <div class="logo">
+                  <a href="https://ai.italia.it">
+                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="68px" height="62px" viewBox="0 0 68 62" style="enable-background:new 0 0 68 62;" xml:space="preserve">
+                      <style type="text/css">
+                        .st0{fill:#FFFFFF;}
+                      </style>
+                      <path id="Fill-1" class="st0" d="M59.5,0C64.2,0,68,3.8,68,8.4V62h-8.5V11.2c0-1.5-1.3-2.8-2.8-2.8H11.3c-1.6,0-2.8,1.3-2.8,2.8V62 H0V8.4C0,3.8,3.8,0,8.5,0H59.5z"/>
+                      <polygon id="Fill-4" class="st0" points="30.3,62 38.6,62 38.6,28.3 30.3,28.3 "/>
+                      <path id="Fill-6" class="st0" d="M25.7,31.5c0-2.3-1.9-4.1-4.1-4.1s-4.1,1.8-4.1,4.1s1.9,4.1,4.1,4.1S25.7,33.7,25.7,31.5"/>
+                    </svg>
+                  </a>
+                </div>
+                <div class="title">
+                  <a href="{{ pathto(master_doc) }}">{{ project }}</a>
+                </div>
+                <div class="burger" data-toggle="wy-nav-top">
+                  <img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCAzMiAzMiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMzIgMzI7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+DQoJLnN0MHtmaWxsOiNGRkZGRkY7fQ0KPC9zdHlsZT4NCjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik00LDhoMjRjMS4xLDAsMi0wLjksMi0ycy0wLjktMi0yLTJINEMyLjksNCwyLDQuOSwyLDZTMi45LDgsNCw4eiIvPg0KPHBhdGggY2xhc3M9InN0MCIgZD0iTTI4LDE0SDRjLTEuMSwwLTIsMC45LTIsMnMwLjksMiwyLDJoMjRjMS4xLDAsMi0wLjksMi0yUzI5LjEsMTQsMjgsMTR6Ii8+DQo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMjgsMjRINGMtMS4xLDAtMiwwLjktMiwyczAuOSwyLDIsMmgyNGMxLjEsMCwyLTAuOSwyLTJTMjkuMSwyNCwyOCwyNHoiLz4NCjwvc3ZnPg==">
+                </div>
+            {% endblock %}
+            </nav>
+            <div class="nav-overlay" data-toggle="wy-nav-top"></div>
+
+
+            {# PAGE CONTENT #}
+            <div class="wy-nav-content">
+                <div class="rst-content">
+                    {% include "breadcrumbs.html" %}
+                    <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+                        <div itemprop="articleBody">
+                            {% block body %}{% endblock %}
+                        </div>
+                        <div class="articleComments">
+                            {% block comments %}{% endblock %}
+                        </div>
+                    </div>
+                    {% include "footer.html" %}
+                </div>
+            </div>
+
+        </section>
+
+    </div>
+    {% if READTHEDOCS %}
+    {% set script_files = script_files + ['_static/js/offcanvas.js'] %}
+    {% set script_files = script_files + ['_static/js/disqus.js'] %}
+    {% endif %}
+    {% include "versions.html" %} {% if not embedded %}
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT: '{{ url_root }}',
+            VERSION: '{{ release|e }}',
+            COLLAPSE_INDEX: false,
+            FILE_SUFFIX: '{{ '' if no_search_suffix else file_suffix }}',
+            HAS_SOURCE: {{ has_source|lower }},
+            SOURCELINK_SUFFIX: '{{ sourcelink_suffix }}'
+        };
+    </script>
+    {%- for scriptfile in script_files %}
+    <script type="text/javascript" src="{{ pathto(scriptfile, 1) }}"></script>
+    {%- endfor %} {% endif %} {# RTD hosts this file, so just load on non RTD builds #} {% if not READTHEDOCS %}
+    <script type="text/javascript" src="{{ pathto('_static/js/theme.js', 1) }}"></script>
+    {% endif %} {# STICKY NAVIGATION #} {% if theme_sticky_navigation %}
+    <script type="text/javascript">
+        jQuery(function() {
+            SphinxRtdTheme.StickyNav.enable();
+        });
+    </script>
+    {% endif %} {%- block footer %} {% endblock %}
+
+</body>
+
+</html>
