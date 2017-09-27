@@ -34,11 +34,40 @@ footer {
 }
 
 .wy-menu-vertical .local-toc li ul li ul {
-    display: block;
-    margin-left: 20px;
+  display: block;
+  margin-left: 20px;
 }
 
 .wy-menu-vertical .local-toc li ul {
-    display: block;
-    margin-left: 20px;
+  display: block;
+  margin-left: 20px;
+}
+
+#slimheader {
+  background-color: #004080;
+  padding-left: 50px;
+  padding-right: 100px;
+}
+
+@media only screen and (max-width: 994px) {
+  #slimheader {
+    padding: 0;
+  }
+
+  #slimheader .sh__wrapper {
+    max-width: 94vw;
+    margin: 0 auto;
+  }
+}
+
+.wy-side-nav-search {
+  background-color: #004080;
+}
+
+.wy-side-nav-search h1 > span.version {
+  background-color: #06c;
+}
+
+.wy-nav-top {
+  background-color: #004080;
 }
