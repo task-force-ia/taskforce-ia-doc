@@ -130,7 +130,9 @@ imprevedibile perfino per gli stessi ideatori del sistema.
 1) In italiano: apprendimento automatico. Disciplina scientifica afferente
 all’area dell’Intelligenza Artificiale, in cui ricadono algoritmi e metodologie
 utili all’addestramento di programmi capaci di fornire automaticamente una
-risposta a problemi specifici. 2) L'apprendimento automatico (Machine Learning) è
+risposta a problemi specifici.
+
+2) L'apprendimento automatico (Machine Learning) è
 un campo dell'informatica che offre ai computer la possibilità di apprendere
 senza essere esplicitamente programmati. Il machine learning esplora lo studio e
 la costruzione di algoritmi in grado di apprendere dai dati e fare previsioni
