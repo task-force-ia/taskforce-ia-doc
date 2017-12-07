@@ -45,17 +45,15 @@ via chat, senza l'intervento umano
 ### Data Analyst
 
 Quello che negli Stati Uniti è noto come Data Scientist, in Italia è meglio
-conosciuto come Data Analyst: l’economista Hal Ronald Varian, Chief Economist di
-Google l’ha definito “il lavoro più sexy del ventunesimo secolo”. O meglio, nel
-nostro Paese è più corretto definirlo così, Data Analyst, perché le sue mansioni
-sono principalmente di orientamento all’interno di una mole di dati e di sintesi
-di informazioni utili al processo decisionale per risolvere problemi e definire
-nuove strategie. Se vogliamo trovare una diferenza tra le due figure
-professionali diciamo che l'analista di dati analizza principalmente i dati
-storici conosciuti, con nuove prospettive, scrive query personalizzate per
-rispondere a domande complesse, cerca nuove metriche per la lettura di dati, ne
-migliora la qualità. Lavora in raccordo con le altre figure professionali della
-data science
+conosciuto come Data Analyst. O meglio, nel nostro Paese è più corretto
+definirlo così, Data Analyst, perché le sue mansioni sono principalmente di
+orientamento all’interno di una mole di dati e di sintesi di informazioni utili
+al processo decisionale per risolvere problemi e definire nuove strategie. Se
+vogliamo trovare una diferenza tra le due figure professionali diciamo che
+l'analista di dati analizza principalmente i dati storici conosciuti, con nuove
+prospettive, scrive query personalizzate per rispondere a domande complesse,
+cerca nuove metriche per la lettura di dati, ne migliora la qualità. Lavora in
+raccordo con le altre figure professionali della data science
 
 ### Data Mining
 
