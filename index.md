@@ -112,3 +112,9 @@ Un insieme di raccomandazioni che individuano le caratteristiche di una PA “AI
 ```
 
 ## Approfondimenti, roadmap e credits
+
+# Glossario
+
+## istruzioni
+
+## termini del glossario
