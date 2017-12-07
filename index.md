@@ -4,4 +4,7 @@
 .. DON'T EDIT THIS BLOCK
 .. toctree::
    :maxdepth: 2
+
+   whitepaper
+   glossario
 ```
