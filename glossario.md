@@ -1,5 +1,25 @@
 # Glossario
 
+Il Glossario nasce per semplificare la comprensione di termini specialistici
+sull’Intelligenza Artificiale.
+
+Il documento rappresenta un’opportunità di divulgazione delle parole
+dell’Intelligenza Artificiale al fine di aumentare la sensibilizzazione dei
+cittadini verso le evoluzioni e i vantaggi dell’IA.
+
+Sono raccolti qui di seguito un primo set di termini e le relative definizioni
+sull’Intelligenza Artificiale, in consultazione fino al XX gennaio 2018.
+
+#### Come commentare il Glossario?
+
+Clicca su “Mostra i commenti” alla fine di ogni capitolo e inserisci il tuo
+contributo!
+
+#### Hai un termine da suggerire?
+
+Invia una mail - con termine e definizione - a
+intelligenza-artificiale@agid.gov.it
+
 ## Lemmi
 
 ### Analytics
@@ -130,13 +150,13 @@ all’area dell’Intelligenza Artificiale, in cui ricadono algoritmi e metodolo
 utili all’addestramento di programmi capaci di fornire automaticamente una
 risposta a problemi specifici.
 
-2) L'apprendimento automatico (Machine Learning) è
-un campo dell'informatica che offre ai computer la possibilità di apprendere
-senza essere esplicitamente programmati. Il machine learning esplora lo studio e
-la costruzione di algoritmi in grado di apprendere dai dati e fare previsioni
-basate su questi. Tali algoritmi vanno oltre la mera applicazione delle
-struzioni statiche contenute in un programma e sono in grado di formulare
-previsioni o decisioni basate sui dati.
+2) L'apprendimento automatico (Machine Learning) è un campo dell'informatica che
+offre ai computer la possibilità di apprendere senza essere esplicitamente
+programmati. Il machine learning esplora lo studio e la costruzione di algoritmi
+in grado di apprendere dai dati e fare previsioni basate su questi. Tali
+algoritmi vanno oltre la mera applicazione delle struzioni statiche contenute in
+un programma e sono in grado di formulare previsioni o decisioni basate sui
+dati.
 
 ### Natural Language Generation
 
