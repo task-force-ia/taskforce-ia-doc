@@ -10,12 +10,12 @@ cittadini verso le evoluzioni e i vantaggi dell’IA.
 Sono raccolti qui di seguito un primo set di termini e le relative definizioni
 sull’Intelligenza Artificiale, in consultazione fino al XX gennaio 2018.
 
-### Come commentare il Glossario?
+**Come commentare il Glossario?**
 
 Clicca su “Mostra i commenti” alla fine di ogni capitolo e inserisci il tuo
 contributo!
 
-### Hai un termine da suggerire?
+**Hai un termine da suggerire?**
 
 Invia una mail - con termine e definizione - a
 intelligenza-artificiale@agid.gov.it
