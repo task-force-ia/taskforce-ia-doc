@@ -1,24 +1,24 @@
 # Glossario
 
-Il Glossario nasce per semplificare la comprensione di termini specialistici
+Il **Glossario** nasce per semplificare la comprensione di termini specialistici
+sull’Intelligenza Artificiale. Il documento rappresenta un’opportunità per
+divulgare le parole dell’Intelligenza Artificiale e aumentare la
+sensibilizzazione dei cittadini verso le evoluzioni e i vantaggi dell’IA.
+
+Di seguito sono raccolti **un primo set di termini** e le relative definizioni
 sull’Intelligenza Artificiale.
 
-Il documento rappresenta un’opportunità di divulgazione delle parole
-dell’Intelligenza Artificiale al fine di aumentare la sensibilizzazione dei
-cittadini verso le evoluzioni e i vantaggi dell’IA.
-
-Sono raccolti qui di seguito un primo set di termini e le relative definizioni
-sull’Intelligenza Artificiale, in consultazione fino al XX gennaio 2018.
+**La bozza è in consultazione fino al XX gennaio 2018.**
 
 **Come commentare il Glossario?**
 
-Clicca su “Mostra i commenti” alla fine di ogni capitolo e inserisci il tuo
-contributo!
+- Clicca su “Mostra i commenti” alla fine di ogni capitolo e inserisci il tuo
+- contributo!
 
 **Hai un termine da suggerire?**
 
-Invia una mail - con termine e definizione - a
-intelligenza-artificiale@agid.gov.it
+Invia una mail - con termine e definizione - a:
+<intelligenza-artificiale@agid.gov.it>
 
 ## Lemmi
 
@@ -28,18 +28,30 @@ In italiano, l’analisi dei dati. Il termine si riferisce all’applicazione
 dell’informatica a problemi che richiedono l’analisi e l’interpretazione di un
 gran numero di dati, con lo scopo di stabilire quali siano le migliori decisioni
 strategiche da prendersi, ad esempio, per ottimizzare il sito di un’azienda o di
-una PA. In particolare, la web analytics implica la misurazione, la raccolta,
-l’analisi e la rilevazione periodica dei dati web finalizzata alla migliore
-comprensione dell’utilizzo dei contenuti online da parte dell’utenza, in
-funzione della loro ottimizzazione.
+una PA.
+
+### App
+
+Applicazione software dedicata ai dispositivi di tipo mobile, quali smartphone o
+tablet. Si differenzia dalle tradizionali applicazioni, sia per il supporto con
+cui viene usata, sia per la concezione che racchiude in sé, caratterizzata da
+una semplificazione ed eliminazione del superfluo, al fine di ottenere
+leggerezza, essenzialità e velocità, in linea con le limitate risorse hardware e
+con la differente usabilità dei dispositivi mobili rispetto ai computer desktop.
+
+### Application Programming Interface (API)    
+
+Interfaccia per la programmazione di applicazioni, ovvero serie di convenzioni
+adottate dagli sviluppatori di software per definire il modo con il quale va
+richiamata una determinata funzione di un’applicazione.
 
 ### Automated Decision Support
 
-I sistemi automatizzati di supporto alle decisioni sono sistemi basati su regole
-definite e utilizzati per automatizzare tutte le operazioni gestionali
-ripetitive e a basso valore aggiunto. Sono utilizzati anche quando è necessario
-prendere decisioni in stato critico, ad esempio durante un incidente industriale
-oppure una crisi finanziaria.
+I sistemi automatizzati di supporto alle decisioni basati su regole definite e
+utilizzati per automatizzare tutte le operazioni gestionali ripetitive e a basso
+valore aggiunto. Sono utilizzati anche quando è necessario prendere decisioni in
+stato critico, ad esempio durante un incidente industriale oppure una crisi
+finanziaria.
 
 ### Bias
 
@@ -48,6 +60,17 @@ non in modo attendibile, ma influenzandola in modo sistematico in una certa
 direzione riconoscibile. Il bias porta dunque a errori sistematici, come
 contrapposti a errori casuali. Nelle reti neurali, il bias è una costante che
 influenza una connessione tra un’unità di input e una di output.
+
+### Big data
+
+Si parla di big data quando si ha un insieme di dati da memorizzare e/o
+elaborare di dimensioni così grandi, e/o con una varietà di formati così
+elevata, e/o con una velocità di crescita così alta da richiedere l’uso di
+software non convenzionali (tecnologie big data) per estrapolare, gestire e
+processare informazioni entro un tempo ragionevole. Le tecnologie Big data sono
+altamente scalabili: le loro “capacità” di elaborazione/memorizzazione crescono
+linearmente con la quantità di risorse ad esse dedicate (tipicamente espressa in
+numero di host).
 
 ### Brain Intelligence (BI)
 
@@ -64,16 +87,34 @@ via chat, senza l’intervento umano.
 
 ### Data Analyst
 
-Quello che negli Stati Uniti è noto come Data Scientist, in Italia è meglio
-conosciuto come Data Analyst. O meglio, nel nostro Paese è più corretto
-definirlo così, Data Analyst, perché le sue mansioni sono principalmente di
-orientamento all’interno di una mole di dati e di sintesi di informazioni utili
-al processo decisionale per risolvere problemi e definire nuove strategie. Se
-vogliamo trovare una differenza tra le due figure professionali diciamo che
-l’analista di dati analizza principalmente i dati storici conosciuti, con nuove
+In italiano, analista di dati. Figura professionale con mansioni principalmente
+di orientamento all’interno di una mole di dati e di sintesi di informazioni
+utili al processo decisionale per risolvere problemi e definire nuove strategie.
+L’analista di dati analizza principalmente i dati storici conosciuti, con nuove
 prospettive, scrive query personalizzate per rispondere a domande complesse,
 cerca nuove metriche per la lettura di dati, ne migliora la qualità. Lavora in
 raccordo con le altre figure professionali della data science.
+
+### Data application
+
+Applicazioni che permettono di visualizzare e manipolare in modo efficace un
+insieme di dati.
+
+### Data-driven policy (politiche data-driven)
+
+Politiche guidate dai dati. Le opportunità offerte dalle tecnologie per Big Data
+e la diffusione dell’IoT rendono l’analisi dei dati uno strumento utile per
+costruire modelli della realtà sempre più precisi, grazie ai quali impostare
+strategie politiche efficaci.
+
+### Data Lake
+
+Componente architetturale per la persistenza dei dati forniti in input a un
+sistema di Big Data. In un data lake vengono generalmente memorizzati i dati nel
+loro formato naturale (raw data) e provenienti da diverse sorgenti informative:
+conseguentemente in un data lake coesistono dati strutturati (es. XML, JSON),
+dati semi-strutturati (es. CSV, logs), dati non strutturati (es. email,
+documenti, file PDF) e dati binari (es. immagini, audio, video).
 
 ### Data Mining
 
@@ -88,24 +129,13 @@ Figura professionale esperta di data science: costruisce modelli statistici che
 prendono decisioni basate sui dati, conduce esperimenti statistici per scoprire
 le cause di un fenomeno. Tra i compiti lo svolgimento di analisi complete del
 ciclo di vita dei dati, nonché lo sviluppo di funzionalità per l’analisi e il
-monitoraggio delle analisi condotte. Figura notevolmente correlata al data
+monitoraggio delle analisi condotte. Lavora in stretto raccordo con il data
 analyst.
 
 ### Data Set
 
-Si intende una collezione di dati. Più comunemente un dataset costituisce un
-insieme di dati strutturati in forma relazionale, cioè corrisponde al contenuto
-di una singola tabella di database, oppure ad una singola matrice di dati
-statistici, in cui ogni colonna della tabella rappresenta una particolare
-variabile e ogni riga corrisponde ad un determinato membro del dataset in
-questione.
-
-La dimensione del dataset è data dal numero dei membri presenti, che formano le
-righe, e dal numero delle variabili di cui si compone, che formano le colonne.
-
-Il termine dataset può essere usato anche più genericamente, per indicare i dati
-in un insieme di tabelle strettamente connesse, relative ad un particolare
-esperimento o evento.
+Una collezione di dati, generalmente riguardanti una stessa organizzazione, che
+vengono erogati e gestiti congiuntamente.
 
 ### Deep Learning
 
@@ -119,16 +149,9 @@ che vengono elaborati. “Deep”, si riferisce ai molti livelli che la rete neu
 accumula nel tempo migliorando le prestazioni con l’aumentare della profondità
 della rete.
 
-### Deep Mind
-
-DeepMind è un’impresa britannica di intelligenza artificiale controllata da
-Alphabet. Fu fondata nel 2011 come DeepMind Technologies ed è stata poi
-acquisita da Google nel 2014. Oggi creatrice degli algoritmi che danno vita al
-sistema di intelligenza artificiale alla base dell’IA di AlphaGo.
-
 ### Deep Neural Networks
 
-Sono un tipo particolarmente complesso di reti neurali artificiali (ANNs),
+Tipo particolarmente complesso di reti neurali artificiali (ANNs), ovvero
 sistemi di calcolo ispirati alle reti neurali biologiche del cervello umano.
 Tali sistemi apprendono (nel senso che migliorano progressivamente le
 prestazioni) a svolgere attività a partire da esempi, in assenza di una
@@ -136,29 +159,28 @@ programmazione basata sull’esecuzione di compiti specifici. Ad esempio, nel
 riconoscimento di immagini, potrebbero imparare a identificare le immagini che
 contengono gatti analizzando immagini esemplificative etichettate manualmente
 come “gatto” o “senza gatto” e utilizzando i risultati analitici per
-identificare i gatti in altre immagini. Le ANNs consentono di addestrare i
-dispositivi invece di programmarli. Grazie all’analisi di un numero enorme di
-casi e di dati raccolti, il sistema stesso elabora, aggiorna e sviluppa le
-regole di comportamento futuro assumendo autonome decisioni, o svolgendo azioni
-per massimizzare le possibilità di ottenere i risultati voluti, in un modo
-imprevedibile perfino per gli stessi ideatori del sistema.
+identificare i gatti in altre immagini.
 
-### Machine learning
+Le ANNs consentono di addestrare i dispositivi invece di programmarli. Grazie
+all’analisi di un numero enorme di casi e di dati raccolti, il sistema stesso
+elabora, aggiorna e sviluppa le regole di comportamento futuro assumendo
+autonome decisioni, o svolgendo azioni per massimizzare le possibilità di
+ottenere i risultati voluti, in un modo imprevedibile perfino per gli stessi
+ideatori del sistema.
 
-1. In italiano: apprendimento automatico. Disciplina scientifica afferente
-all’area dell’Intelligenza Artificiale, in cui ricadono algoritmi e metodologie
-utili all’addestramento di programmi capaci di fornire automaticamente una
-risposta a problemi specifici.
+### Machine Learning
 
-2. L’apprendimento automatico (Machine Learning) è un campo dell’informatica che
-offre ai computer la possibilità di apprendere senza essere esplicitamente
-programmati. Il machine learning esplora lo studio e la costruzione di algoritmi
-in grado di apprendere dai dati e fare previsioni basate su questi. Tali
-algoritmi vanno oltre la mera applicazione delle istruzioni statiche contenute
-in un programma e sono in grado di formulare previsioni o decisioni basate sui
-dati.
+In italiano, apprendimento automatico. Disciplina scientifica afferente all’area
+dell’Intelligenza Artificiale, in cui ricadono algoritmi e metodologie utili
+all’addestramento di programmi capaci di fornire automaticamente una risposta a
+problemi specifici. Il Machine learning è un campo dell’informatica che offre ai
+computer la possibilità di apprendere senza essere esplicitamente programmati.
+Esplora lo studio e la costruzione di algoritmi in grado di apprendere dai dati
+e fare previsioni basate su questi. Tali algoritmi vanno oltre la mera
+applicazione delle istruzioni statiche contenute in un programma e sono in grado
+di formulare previsioni o decisioni basate sui dati.
 
-### Natural Language Generation
+### Natural Language Generation (NLG)
 
 È un sistema di traduzione che converte i dati in una rappresentazione in
 linguaggio naturale. Tuttavia, i metodi per produrre la lingua finale sono
@@ -192,15 +214,17 @@ rete.
 Il concetto di privacy in ottica IA riguarda il trattamento dei dati personali
 una volta che questi vengono raccolti in grandi quantità (ad esempio tramite
 sensori e “apparati intelligenti”) e poi utilizzati per prendere decisioni in
-modo “automatico”. Il nuovo regolamento europeo in materia di protezione dei
-dati personali (UE 2016/679), applicabile in tutta l’UE a decorrere dal 25
-maggio 2018, contiene alcuni principi, già peraltro contemplati dalla disciplina
-precedente, fondamentali anche in questi nuovi contesti. È il caso del divieto
-di adottare decisioni che producono effetti giuridici su una persona basate
-unicamente su un trattamento automatizzato teso a valutare taluni aspetti della
-personalità o ad analizzarne o prevederne in particolare il rendimento
-professionale, la situazione economica, l’ubicazione, lo stato di salute, le
-preferenze personali, l’affidabilità o il comportamento.
+modo “automatico”.
+
+Il nuovo regolamento europeo in materia di protezione dei dati personali (UE
+2016/679), applicabile in tutta l’UE a decorrere dal 25 maggio 2018, contiene
+alcuni principi, già peraltro contemplati dalla disciplina precedente,
+fondamentali anche in questi nuovi contesti. È il caso del divieto di adottare
+decisioni che producono effetti giuridici su una persona basate unicamente su un
+trattamento automatizzato teso a valutare taluni aspetti della personalità o ad
+analizzarne o prevederne in particolare il rendimento professionale, la
+situazione economica, l’ubicazione, lo stato di salute, le preferenze personali,
+l’affidabilità o il comportamento.
 
 ### Stream
 
@@ -219,7 +243,7 @@ macchine sono capaci di trovare soluzioni coscienti, capaci di elaborare
 problemi e soluzioni. Un sistema che non segue le logiche di una mente ma che è
 esso stesso una mente.
 
-### Supervised learning
+### Supervised Learning
 
 L’apprendimento supervisionato è una tecnica di apprendimento automatico che
 mira a istruire un sistema informatico in modo da consentirgli di risolvere dei
@@ -229,6 +253,11 @@ da coppie di input e di output desiderati, che gli vengono inizialmente forniti.
 Algoritmi di apprendimento supervisionato possono essere utilizzati nei più
 disparati settori. Ad esempio nel campo medico, in cui si può prevedere lo
 scatenarsi di particolari crisi sulla base dell’esperienza di passati dati
-biometrici; l’identificazione vocale che migliora sulla base degli ascolti audio
-passati; l’identificazione della scrittura manuale che si perfeziona sulle
-osservazioni degli esempi sottoposti dall’utente.
+biometrici o l’identificazione vocale che migliora sulla base degli ascolti
+audio passati.
+
+### Web Analytics
+
+La misurazione, la raccolta, l’analisi e la rilevazione periodica dei dati web
+finalizzata alla migliore comprensione dell’utilizzo dei contenuti online da
+parte dell’utenza, in funzione della loro ottimizzazione.
