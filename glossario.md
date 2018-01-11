@@ -8,8 +8,6 @@ sensibilizzazione dei cittadini verso le evoluzioni e i vantaggi dell’IA.
 Di seguito sono raccolti **un primo set di termini** e le relative definizioni
 sull’Intelligenza Artificiale.
 
-**La bozza è in consultazione fino al XX gennaio 2018.**
-
 **Come commentare il Glossario?**
 
 - Clicca su “Mostra i commenti” alla fine di ogni capitolo e inserisci il tuo
