@@ -5,13 +5,13 @@ import sys
 import os
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = 'White paper IA'
+settings_project_name = 'Libro bianco IA'
 settings_copyright_copyleft = 'CC0 1.0 Universal - Agenzia per l\'Italia Digitale'
 settings_editor_name = 'AgID - Agenzia per l\'Italia Digitale'
 settings_doc_version = "draft"
 settings_doc_release = "draft"
-settings_basename = 'WhitepaperIA'
-settings_file_name = 'Whitepaper-IA'
+settings_basename = 'librobiancoIA'
+settings_file_name = 'librobiancoIA'
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom

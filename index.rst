@@ -6,8 +6,10 @@ L’Intelligenza Artificiale al servizio del cittadino
 .. toctree::
    :maxdepth: 2
 
-   doc/whitepaper/capitolo_1
-   doc/whitepaper/capitolo_2
-   doc/whitepaper/capitolo_3
+   doc/introduzione
+   doc/capitolo_1
+   doc/capitolo_2
+   doc/capitolo_3
+   doc/raccomandazioni
    doc/glossario
 

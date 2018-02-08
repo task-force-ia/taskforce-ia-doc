@@ -1,7 +1,7 @@
 Sfida 9: L’essere umano
 -----------------------
 
-L’introduzione dell’Intelligenza Artificiale (IA) nel mondo comporta
+L’introduzione dell’Intelligenza Artificiale nel mondo comporta
 questioni esistenziali e psicologiche che è necessario affrontare in
 quanto influiscono sulla possibilità di percepire, comprendere ed agire
 sul mondo, e su come gli esseri umani vi si posizionano individualmente,
@@ -9,16 +9,16 @@ rispetto alla società e all’ambiente, con impatti sostanziali su
 diritti, libertà e opportunità di realizzazione tanto personale che
 lavorativa.
 
-L’Intelligenza Artificiale (IA) è già presente in tanti ambienti,
-servizi e processi della nostra quotidianità: le tecnologie che usiamo
-per mediare le relazioni con altri esseri umani, gli oggetti e i luoghi
-che abitiamo, influenzano comportamenti, modi di lavorare, imparare,
-comunicare e divertirsi. Tutti noi ci siamo confrontati più o meno
-consapevolmente con questa realtà, anche se sull’IA esistono ancora
-perplessità dovute alla poca comprensione della tecnologia in sé e dei
-suoi reali effetti nella società.
+L’IA è già presente in tanti ambienti, servizi e processi della nostra
+quotidianità: le tecnologie che usiamo per mediare le relazioni con
+altri esseri umani, gli oggetti e i luoghi che abitiamo, influenzano
+comportamenti, modi di lavorare, imparare, comunicare e divertirsi.
+Tutti noi ci siamo confrontati più o meno consapevolmente con questa
+realtà, anche se sull’IA esistono ancora perplessità dovute alla poca
+comprensione della tecnologia in sé e dei suoi reali effetti nella
+società.
 
-In questo vuoto di conoscenza, che è presente a tutti i livelli di
+In questa carenza di conoscenza, che è presente a tutti i livelli di
 società e di istruzione, si inserisce facilmente una narrazione fatta di
 notizie distorte o influenzate da fantascienza distopica, che rischia di
 influire negativamente sull’immaginario collettivo, degenerando in
@@ -31,21 +31,21 @@ queste capacità d’intervento sull’immaginario.
 
 Si tratta, quindi, di azioni che hanno impatti sulle sfere psicologica,
 sociale ed esistenziale. Per accompagnare i cittadini non sono
-sufficienti le necessarie leggi, normative e buone pratiche tecniche e
-tecnologiche: servono una narrazione ed un immaginario costruiti dalla
-società in maniera inclusiva delineando i significati dell'IA e i ruoli
-che vogliamo assegnargli.
+sufficienti le leggi, normative e buone pratiche tecniche e tecnologiche
+(pur necessarie): servono una narrazione ed un immaginario costruiti
+dalla società in maniera inclusiva delineando i significati dell'IA e i
+ruoli che vogliamo assegnargli.
 
-La società contemporanea, caratterizzata da una forte presenza diffusa
-di reti e tecnologie ubique, ha il compito di creare i presupposti per
-cui le persone possano sviluppare, insieme e responsabilmente, una
-visione del mondo coerente con le novità che tali tecnologie portano con
-sé. In questo senso si esalta ancora di più il valore delle scienze
-sociali e della comunicazione pubblica rispetto alla costruzione di una
-narrazione prevalentemente strategica. Se il futuro è la conseguenza
-delle scelte operate nel presente non possiamo non porci il problema
-lasciando che l’interpretazione dello sviluppo tecnologico e delle sue
-conseguenze sociali non sia presidiato.
+La società contemporanea, caratterizzata da una forte digitalizzazione,
+ha il compito di creare i presupposti per cui le persone possano
+sviluppare, insieme e responsabilmente, una visione del mondo coerente
+con le novità che tali tecnologie portano con sé. In questo senso si
+esalta ancora di più il valore delle scienze sociali e della
+comunicazione pubblica rispetto alla costruzione di una narrazione
+prevalentemente strategica. Se il futuro è la conseguenza delle scelte
+operate nel presente non possiamo non porci il problema lasciando che
+l’interpretazione dello sviluppo tecnologico e delle sue conseguenze
+sociali non sia presidiato.
 
 Diversi sono gli approcci che in maniera transdisciplinare concorrono
 alla costruzione di uno scenario che faciliti la comprensione e il
@@ -114,17 +114,18 @@ ricercatori, umanisti, ingegneri e manager in ambito di IA.
    Bologna, Il Mulino, 1971).
 
 .. [2]
-   Tra le numerose fonti in materia, si cita l’articolo “10 Other
+   Tra le numerose fonti in materia, si cita l’art. 10 “*Other
    Facebook Experiments On Users, Rated On A Highly-Scientific WTF
-   Scale”
+   Scale*”
 
-   `https://www.forbes.com/sites/kashmirhill/2014/07/10/facebook-experiments-on-users/#386e02291c3d <https://www.forbes.com/sites/kashmirhill/2014/07/10/facebook-experiments-on-users/#386e02291c3d>`__
+   `https://www.forbes.com/sites/kashmirhill/2014/07/10/facebook-experiments-on-users/#386e02291c3d <https://www.forbes.com/sites/kashmirhill/2014/07/10/facebook-experiments-on-users/#386e02291c3d>`__.
 
 .. [3]
    Nella pubblicazione "*Vision and trends of social innovation in
    Europe*" la Commissione Europea afferma l'importanza del passaggio
    dalla prospettiva del bisogno a quella dell'aspirazione, in un'ottica
    di innovazione sociale.
+
    `https://publications.europa.eu/en/publication-detail/-/publication/a97a2fbd-b7da-11e7-837e-01aa75ed71a1 <https://publications.europa.eu/en/publication-detail/-/publication/a97a2fbd-b7da-11e7-837e-01aa75ed71a1>`__.
 
 .. [4]

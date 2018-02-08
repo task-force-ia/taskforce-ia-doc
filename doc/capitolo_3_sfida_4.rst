@@ -37,7 +37,7 @@ spazio e nel tempo: una sfida di rara complessità per chiunque aspiri ad
 analizzare i dati in maniera strutturata.
 
 Un secondo terreno di confronto è rappresentato dalla gestione e ricerca
-dei dati pubblicati in rete sotto forma di *linked open data*\  [1]_.
+dei dati pubblicati in rete sotto forma di *linked open data* [1]_.
 Tali dati, che possono riguardare sia il compito istituzionale di un
 ente pubblico (e.g. dati catastali o amministrativi) sia il suo
 funzionamento (e.g. dati interni) sono resi accessibili e fruibili
@@ -89,7 +89,7 @@ soluzioni di Intelligenza Artificiale utili al cittadino possa avere un
 accesso paritario e non discriminatorio ai dati necessari [6]_.
 
 .. [1]
-   Definizione di Linked Open Data Cfr.
+   Definizione di *Linked Open Data* *Cfr*.
    `https://www.w3.org/egov/wiki/Linked_Open_Data <https://www.w3.org/egov/wiki/Linked_Open_Data>`__.
 
 .. [2]
@@ -99,7 +99,7 @@ accesso paritario e non discriminatorio ai dati necessari [6]_.
    presenti all’interno di banche dati o nel www.
 
 .. [3]
-   Cfr.
+   *Cfr*.
    `https://pianotriennale-ict.readthedocs.io/it/latest/doc/09_data-analytics-framework.html <https://pianotriennale-ict.readthedocs.io/it/latest/doc/09_data-analytics-framework.html>`__.
 
 .. [4]
@@ -121,7 +121,7 @@ accesso paritario e non discriminatorio ai dati necessari [6]_.
    Sperequazioni che si sono verificate, per esempio, nel caso
    dell'accordo `tra il Royal Free London NHS Foundation Trust e Deep
    Mind di
-   Googl <https://link.springer.com/article/10.1007/s12553-017-0179-1>`__\ e
+   Googl <https://link.springer.com/article/10.1007/s12553-017-0179-1>`__ e
    per una sperimentazione dell'Intelligenza Artificiale del colosso
    informatico, nell'ambito della sanità britannica, con problemi
    sollevati in merito alla trasparenza e al trattamento dei dati

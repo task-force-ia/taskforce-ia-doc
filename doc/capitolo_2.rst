@@ -1,7 +1,7 @@
 Capitolo 2 - Intelligenza artificiale oggi
 ==========================================
 
-Cos’è l’intelligenza Artificiale (IA)? Esistono molteplici definizioni,
+Cos’è l’Intelligenza Artificiale (IA)? Esistono molteplici definizioni,
 fra le quali si annovera quella dell’Università di Stanford, che la
 identifica come “una scienza e un insieme di tecniche computazionali che
 vengono ispirate - pur operando tipicamente in maniera diversa - dal
@@ -12,7 +12,7 @@ Romanzi e film di fantascienza cavalcano e avvalorano la paura
 dell’ignoto: l’Intelligenza Artificiale spesso viene rappresentata in
 maniera negativa, come un pericolo per l’umanità, potenzialmente capace
 di prendere il sopravvento e di dominarci [2]_ ma nella realtà l’IA fa
-già parte della nostra quotidianità. Con gli assistenti vocali dei
+già parte della nostra quotidianità. Con gli assistenti digitali dei
 telefoni cellulari, i sistemi di guida assistita delle automobili, i
 *chatbot* che rispondono quando chiamiamo soggetti pubblici o privati, i
 sistemi di traduzione automatica di testi e discorsi, i robot in
@@ -22,15 +22,18 @@ sempre più realistici e coinvolgenti.
 
 L’Intelligenza Artificiale, ad esempio, può migliorare la nostra vita
 guidando al posto nostro, prendendosi cura delle persone anziane
-bisognose di assistenza, velocizzando le pratiche burocratiche,
-svolgendo lavori pericolosi e usuranti, aiutandoci a prendere decisioni
-ponderate, gestendo in maniera razionale grandi moli di dati che
-altrimenti faticheremmo a interpretare, permettendoci di comunicare pur
-non conoscendo la lingua dei nostri interlocutori, seguendoci nello
-studio o aumentando le esperienze culturali e di intrattenimento.
+bisognose di assistenza, svolgendo lavori pericolosi e usuranti,
+aiutandoci a prendere decisioni ponderate, gestendo in maniera razionale
+grandi moli di dati che altrimenti faticheremmo a interpretare,
+permettendoci di comunicare pur non conoscendo la lingua dei nostri
+interlocutori, seguendoci nello studio o aumentando le esperienze
+culturali e di intrattenimento, velocizzando le pratiche burocratiche.
 
-Tutto questo e molto altro è possibile grazie ai recenti sviluppi nella
-ricerca in alcuni specifici ambiti di applicazione [3]_.
+Questo è possibile in alcuni specifici ambiti di applicazione [3]_
+grazie ai recenti sviluppi nelle tecniche di IA dovuti essenzialmente
+alla larga disponibilità di dati annotati, al miglioramento delle
+tecniche di apprendimento e alla disponibilità di elevata capacità
+computazionale a costi sempre più accessibili.
 
 I principali ambiti di applicazione 
 ------------------------------------
@@ -49,14 +52,14 @@ eseguire traduzioni [4]_.
 +-----------------------------------------------------------------------+
 | Box                                                                   |
 |                                                                       |
-| Per esempio, un ***chatbot*** può rispondere contemporaneamente a     |
-| tutte le telefonate o alle email che arrivano in un determinato       |
+| Per esempio, un *chatbot* dotato di IA può rispondere                 |
+| contemporaneamente a conversazioni che arrivano in un determinato     |
 | momento, eliminando i tempi di attesa e, una volta comprese le        |
 | esigenze del proprio interlocutore, può indirizzarlo verso gli uffici |
 | giusti, aiutarlo a trovare la documentazione che gli serve, fornire   |
 | indicazioni per produrre correttamente le sue richieste scritte, se   |
 | necessario parlando anche in una lingua straniera, o traducendo i     |
-| termini burocratici che non l’utente non comprende.                   |
+| termini burocratici che l’utente non comprende.                       |
 +-----------------------------------------------------------------------+
 
 I funzionari pubblici possono in questo modo essere liberati
@@ -64,46 +67,41 @@ dall’incombenza di rispondere alle domande e alle mansioni più semplici,
 che spesso sono anche le più ricorrenti, recuperando tempo da dedicare
 ad altre attività, per fornire consulenze complesse e servizi migliori.
 
-Alcune delle funzionalità descritte possono essere utilizzate anche nel
-sistema sanitario, per esempio per gestire nella maniera più veloce le
+Alcune delle funzionalità descritte possono essere utilizzate anche in
+ambito sanitario, per esempio per gestire nella maniera più veloce le
 prenotazioni di visite ed esami. In questo settore sono molto
 interessanti anche le ricerche sui robot che si prendono cura dei
-pazienti, magari memorizzando le medicine da somministrare loro, i tempi
-e le dosi, oppure monitorando il loro stato di salute per mezzo di
-misurazioni biometriche da trasmettere al medico, corredate, nei casi
-più semplici, di una ipotesi di diagnosi, naturalmente da confermare
+pazienti, eventualmente memorizzando le medicine da somministrare loro,
+i tempi e le dosi, oppure monitorando il loro stato di salute per mezzo
+di misurazioni biometriche da trasmettere al medico, corredate
+eventualmente da una ipotesi di diagnosi.
 
-Proprio in questo tipo di evenienze, che si potrebbero prestare a ampie
-controversie etiche e scientifiche, e che si potrebbero addirittura
-aprire a potenziali conflitti di interessi tra pazienti e medici (che,
-ad esempio, si potrebbero trovare a favorire la conferma della diagnosi
-"della macchina" per evitare attribuzioni di responsabilità
-potenzialmente pericolose per la propria professione), si evidenzia un
-punto focale in cui l'IA si posiziona in maniera eccellente, con la sua
-capacità di creare interazioni inedite tra sistemi
-amministrativo-tecnologici ed esseri umani: la creazione di ponti
-psicologici, cognitivi, sociali e culturali, rendendo più desiderabili e
-coinvolgenti le relazioni e le interazioni, e facilitando la
-trasformazione di dati e informazioni in rappresentazioni e narrative
-capaci di generare significato.
+Proprio in questo tipo di situazioni, che si potrebbero prestare ad
+ampie controversie etiche e scientifiche o a potenziali conflitti di
+interessi tra pazienti e medici [5]_, si evidenzia un punto focale in
+cui l'IA si posiziona in maniera eccellente, con la sua capacità di
+creare interazioni inedite tra sistemi amministrativo-tecnologici ed
+esseri umani.
 
 È oltretutto già possibile immaginare di programmare sistemi
 intelligenti che leggono i risultati degli esami e li interpretano,
 sulla base delle statistiche condotte su grandi moli di dati simili e
-sul loro significato [5]_. Esistono addirittura strumenti predittivi per
+sul loro significato [6]_. Esistono addirittura strumenti predittivi per
 valutare potenziali rischi di evoluzione delle malattie individuali. La
 medicina di precisione, la ricerca sui trattamenti personalizzati, le
 analisi sui possibili effetti di certi farmaci sui singoli pazienti sono
 tutti campi che promettono grandi risultati, grazie alla capacità
-dell’Intelligenza Artificiale di immagazzinare e processare molte
-informazioni su ognuno di noi.
+dell’Intelligenza Artificiale di immagazzinare ed elaborare molte
+informazioni sui pazienti, ma che al contempo richiedono sia un accurato
+controllo da parte delle comunità medica, sia una stretta osservanza
+della privacy.
 
 Qualcosa di molto simile sta accadendo anche nella scuola, dove sono già
 disponibili assistenti didattici artificiali in grado di seguire gli
-studenti singolarmente, somministrando loro contenuti e nozioni pensati
-apposta per aiutarli a sviluppare al meglio le loro capacità, per
-approfondire le loro conoscenze, oppure per recuperare il divario dai
-compagni [6]_.
+studenti singolarmente, somministrando loro contenuti e nozioni
+selezionati apposta per aiutarli a sviluppare al meglio le loro
+capacità, per approfondire le loro conoscenze, oppure per recuperare il
+divario dai compagni [7]_.
 
 Questi strumenti possono essere utilizzati dalla Pubblica
 amministrazione per la formazione del personale, per la gestione delle
@@ -113,11 +111,11 @@ Anche il settore della sicurezza può beneficiare dello sviluppo delle
 tecnologie di Intelligenza Artificiale. Per esempio, nell’ambito della
 sorveglianza, con i sistemi di *computer vision* e di *natural language
 processing* che possono processare grandi quantità di immagini, testi e
-discorsi, per individuare eventuali minacce in tempo reale [7]_. Oppure
+discorsi, per individuare eventuali minacce in tempo reale [8]_. Oppure
 nell’ambito della prevenzione dei disastri ambientali, dove è possibile
 operare simulazioni delle conseguenze dei fenomeni naturali, sia prima
 che questi si verifichino, sia durante il loro svolgimento, aiutando le
-autorità a decidere come intervenire [8]_. Simili tecnologie possono
+autorità a decidere come intervenire [9]_. Simili tecnologie possono
 essere utilizzate anche dalle forze dell’ordine, per pattugliare le
 città, in funzione dei dati continuamente aggiornati, legati ai crimini
 commessi nelle varie zone e ad altre variabili significative.
@@ -129,19 +127,19 @@ commessi nelle varie zone e ad altre variabili significative.
 | **garantire la sicurezza dei sistemi di IA**: l’ingresso di un        |
 | malintenzionato all’interno di sistemi che, per esempio, potranno     |
 | pilotare un autobus, può mettere a repentaglio la vita di chi vi si   |
-| troverà all’interno, così come la manomissione degli strumenti di     |
+| troverà a bordo, così come la manomissione degli strumenti di         |
 | sorveglianza di un luogo pubblico possono renderlo vulnerabile ad     |
-| attacchi, oppure la conoscenza, da parte di un *hacker*, dei          |
-| meccanismi di funzionamento dei programmi di Intelligenza Artificiale |
-| per proteggere dati sensibili, può rendere questi dati insicuri. Per  |
-| affrontare efficacemente questi temi, è necessario mettere in campo   |
-| diverse soluzioni, alcune tecniche, altre di carattere più generale,  |
+| attacchi, oppure la conoscenza, da parte di un *hacker*, del modello  |
+| utilizzato dall’Intelligenza Artificiale per la gestione dei dati     |
+| sensibili, può rendere questi dati insicuri. Per affrontare           |
+| efficacemente questi temi, è necessario mettere in campo diverse      |
+| soluzioni, alcune tecniche, altre di carattere più generale,          |
 | sensibilizzando i cittadini e le amministrazioni. Da un punto di      |
 | vista tecnico è importante lavorare affinché per legge vengano        |
 | garantiti alcuni standard, sia per la sicurezza dei dati di cui si    |
 | nutrono gli algoritmi, sia per la sicurezza degli algoritmi stessi,   |
 | imponendo che, per la loro implementazione, venga sempre seguito il   |
-| paradigma *security by design*\  [9]_.                                |
+| paradigma *security by design* [10]_.                                 |
 +-----------------------------------------------------------------------+
 
 Infine, anche i decisori pubblici possono servirsi di algoritmi
@@ -149,69 +147,46 @@ intelligenti, capaci di processare grandi moli di dati, per esempio
 sulle risorse disponibili nelle aree disagiate, oppure sull’andamento
 dei vari settori - sanitario, giudiziario, scolastico, agroalimentare,
 etc. -, al fine di ottenere una visione più chiara delle scelte che
-devono o che vogliono compiere. È addirittura possibile, come si sta
-sperimentando in Giappone [10]_, che il personale degli uffici pubblici
-risponda in maniera personalizzata a tutte le richieste dei cittadini,
-servendosi di strumenti di Intelligenza Artificiale adeguatamente
-istruiti, che producono automaticamente i contenuti da inviare.
+devono o che vogliono compiere. È possibile, come si sta sperimentando
+in Giappone [11]_, che il personale degli uffici pubblici risponda in
+maniera personalizzata a tutte le richieste dei cittadini, servendosi di
+strumenti di Intelligenza Artificiale adeguatamente istruiti, che
+producono automaticamente i contenuti da inviare.
 
-La decisione critica che verrà presa dai governi è come restituire ai
-cittadini il tempo liberato dalla tecnologia. L’opportunità di avere
-conversazioni più approfondite e mirate a risolvere problemi complessi
-con dipendenti pubblici maggiormente impegnati e attenti alle necessità
-del cittadino potrebbe essere molto più importante di un governo meno
-costoso.
+Spetterà alle amministrazioni decidere come utilizzare le risorse
+liberate dall'introduzione di queste nuove tecnologie, in un ventaglio
+di opzioni che includono il miglioramento qualitativo dei servizi e la
+riduzione dei costi per il loro esercizio.
 
-.. _section-1:
-
-Opportunità e criticità
------------------------
+Le potenzialità dell’IA nella Pubblica amministrazione
+------------------------------------------------------
 
 Le potenzialità dell’Intelligenza Artificiale per la Pubblica
-amministrazione sono dunque molteplici. Tuttavia è necessario
-evidenziare anche alcune criticità che si stanno manifestando per
-riuscire a prevenire effetti distorti nell’applicazione di questi
+amministrazione sono molteplici. Tuttavia la comunità scientifica e
+l'opinione pubblica evidenziano alcune criticità che vanno tenute in
+conto al fine di prevenire effetti distorti nell’applicazione di questi
 strumenti e tecnologie.
 
-Innanzitutto può accadere che sia i dati di cui un’IA si nutre sia gli
-algoritmi da cui è composta producano *bias*\  [11]_ - interpretazioni
-distorte delle informazioni in possesso -, inficiando i “ragionamenti” e
-inducendola in errore [12]_.
+Con riferimento ai sistemi di apprendimento automatico (machine
+learning) accade già oggi che sia i dati di cui un’IA si nutre sia gli
+algoritmi da cui è composta producano *bias* [12]_ - interpretazioni
+distorte delle informazioni in possesso - inficiando i “ragionamenti” e
+inducendola in errore [13]_.
 
 Fare previsioni con strumenti progettati in modo inadeguato non può che
 portare a decisioni sbagliate e, in molti casi, anche eticamente
-scorrette [13]_.
+scorrette [14]_.
 
 Inoltre, è bene sottolineare che allo stato attuale l’Intelligenza
 Artificiale è in grado di portare a compimento, con una certa
-precisione, un ristretto numero di attività cognitive [14]_ riferite a
+precisione, un ristretto numero di attività cognitive [15]_ riferite a
 specifici ambiti settoriali, mancando generalmente di conoscenze di
 sfondo (*background knowledge*).
 
-In certi casi sarà possibile che i sistemi IA sostituiscano il personale
-nelle attività più ripetitive e a minore valore aggiunto. Questo
-scenario, tuttavia, non necessariamente sottrarrà posti di lavoro ma
-contribuirà ad una loro evoluzione. Si potranno creare, infatti, nuove
-figure professionali in risposta ai bisogni dei cittadini, così come
-storicamente è sempre avvenuto quando sono state introdotte profonde
-innovazioni scientifiche e tecnologiche.
-
-Se è necessario essere consapevoli delle possibili degenerazioni che
-possono portare a un futuro distopico, è opportuno comprendere che
-l’Intelligenza Artificiale non è un’entità aliena, fuori dal nostro
-controllo, con cui dobbiamo per forza scendere a compromessi. Essa è
-piuttosto il frutto della nostra visione delle cose, dei nostri valori.
-I suoi algoritmi si nutrono di dati a cui noi stessi abbiamo attribuito
-un significato e li processano secondo le nostre logiche. Sta a noi
-quindi evitare che questo genere di strumenti produca discriminazioni e
-violazioni dei nostri diritti fondamentali, così come sta a noi
-progettare macchine che ci possano affiancare nei compiti più gravosi
-contribuendo a semplificare le nostre esistenze.
-
 Se correttamente progettate e utilizzate, le tecnologie IA potranno
-infatti garantire concrete prospettive di miglioramento alle nostre
-vite. Nel rapporto tra i cittadini e la Pubblica amministrazione, queste
-saranno in grado di consentire maggiore accessibilità ai servizi
+infatti garantire concrete prospettive di miglioramento della qualità
+della vita. Nel rapporto tra i cittadini e Pubblica amministrazione,
+queste saranno in grado di consentire maggiore accessibilità ai servizi
 pubblici, favorendo notevole abbattimento dei loro costi, con vantaggi
 in termini di riduzione della spesa sociale, che potrà essere così
 riallocata. In prospettiva sarà possibile potenziare con adeguati
@@ -229,175 +204,21 @@ La PA potrà, inoltre, avvalersi delle metodologie e delle tecnologie di
 IA per supportare la razionalizzazione e l’integrazione delle proprie
 basi dati, in una prospettiva di interoperabilità semantica che renda
 più semplice circolazione delle informazioni tra le amministrazioni a
-beneficio degli utenti finali [15]_.
+beneficio degli utenti finali [16]_.
 
 L’IA inciderà anche nella ridefinizione del rapporto tra pubblico e
 privato in un’ottica di maggiore trasparenza attraverso
-l’implementazione delle pratiche di *e-procurement*. Uno degli ambiti
-che nel prossimo decennio trarrà maggiormente beneficio dalla
-rivoluzione IA sarà, infatti, proprio quello degli acquisti pubblici.
+l’implementazione delle pratiche di *e-procurement*. Tra gli ambiti che
+nel prossimo decennio trarranno beneficio dalla rivoluzione IA ci sarà,
+infatti, proprio quello degli acquisti pubblici.
 
-Schede sulle soluzioni tecnologiche di Intelligenza Artificiale
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Affective Computing:
-^^^^^^^^^^^^^^^^^^^^
-
-La combinazione di *computer vision*, *machine learning*, *voice/speech
-recognition*, *intelligent decision support* per realizzare sistemi che
-siano in grado di riconoscere ed esprimere emozioni.
-
-Algorithmic game theory and computational social choice:
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Sono ricerche che richiamano l'attenzione sulle **dimensioni economica e
-sociale dell'Intelligenza Artificiale**, come ad esempio quelle che
-riguardano il modo in cui i sistemi informatici possono gestire
-incentivi potenzialmente disallineati di diversi soggetti tra cui esseri
-umani, aziende e agenti automatizzati che possono rappresentarli.
-
-Collaborative systems:
-^^^^^^^^^^^^^^^^^^^^^^
-
-Indaga **modelli e algoritmi utili per sviluppare sistemi autonomi** in
-grado di lavorare in modo collaborativo con altri sistemi di
-Intelligenza Artificiale e con l'uomo.
-
-Computer vision:
-^^^^^^^^^^^^^^^^
-
-Al momento, **il campo più rilevante degli studi sulla percezione delle
-macchine**. I grandi avanzamenti degli ultimi anni sono dovuti
-all'applicazione delle tecniche di *deep learning*. La maggior parte
-della ricerca è concentrata sul riconoscimento automatico di immagini
-fotografiche e video. Per la prima volta, in alcuni ambiti il computer è
-riuscito a superare l'uomo in accuratezza.
-
-Crowdsourcing and human computation:
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Sono **metodi per potenziare i sistemi informatici, che si avvalgono
-delle competenze di un esperto umano,** al fine di risolvere problemi
-che i computer da soli non sarebbero in grado di affrontare
-correttamente.
-
-Deep learning:
-^^^^^^^^^^^^^^
-
-**Una classe specifica di** **procedure di apprendimento automatico**.
-Facilita il riconoscimento di oggetti nelle immagini, l'etichettatura
-dei video in base ai loro contenuti, il riconoscimento di azioni;
-produce significativi avanzamenti in altre aree della percezione, come
-il riconoscimento di suoni in generale, del parlato e dei processi di
-comunicazione con il linguaggio naturale.
-
-Intelligent Decision Support (IDS):
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Sono tecnologie che si usano quando è necessario avere un supporto
-decisionale a fronte di analisi guidate dai dati. Un IDS si comporta
-come un consulente ideale: analizza grandi moli di dati, identifica
-*trend* e stima probabilità e conseguenze, fornisce possibili soluzioni
-e valuta l’impatto delle azioni proposte.
-
-Internet of Things (loT):
-^^^^^^^^^^^^^^^^^^^^^^^^^
-
-È **un ambito di ricerca dedicato all'idea che una vasta gamma di
-dispositivi**, inclusi elettrodomestici, veicoli, edifici e
-videocamere, **possano essere interconnessi per raccogliere e
-condividere le loro abbondanti informazioni**, prodotte per mezzo di
-sensori, elaborandole attraverso sistemi intelligenti di analisi di
-dati.
-
-Large scale machine learning:
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Un filone di studi nel quale vengono prodotti **algoritmi in grado di
-apprendere in maniera automatica**, processando grandi moli di dati
-attraverso sistemi distribuiti.
-
-Natural language processing:
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Spesso accoppiata al riconoscimento vocale automatico, sta rapidamente
-diventando **una risorsa per le lingue ampiamente diffuse**, che
-producono basi di dati di grandi dimensioni. **La ricerca si sta ora
-spostando per sviluppare sistemi raffinati, in grado di interagire con
-le persone attraverso il dialogo, non solo di reagire a richieste
-molto semplici**. Grandi passi avanti sono stati fatti anche nella
-*machine translation*, vale a dire la traduzione tra diverse lingue.
-
-Neuromorphic computing:
-^^^^^^^^^^^^^^^^^^^^^^^
-
-È un insieme di tecnologie che cerca di imitare le reti neurali
-biologiche per migliorare l'efficienza dell'hardware e la robustezza dei
-sistemi di calcolo, spesso sostituendo la vecchia idea secondo cui i
-computer devono prevedere moduli separati per *input / output*,
-elaborazione delle istruzioni e memoria.
-
-Predictive Analysis:
-^^^^^^^^^^^^^^^^^^^^
-
-È un settore dell’IA che si occupa di analizzare fatti attuali e storici
-per fare previsioni su eventi futuri o altrimenti sconosciuti, mediante
-tecniche di apprendimento induttivo.
-
-Reinforcement learning:
-^^^^^^^^^^^^^^^^^^^^^^^
-
-Una serie di **strumenti che collegano il riconoscimento di certe
-configurazioni di dati alle strategie per la presa di decisioni
-sequenziali basate sull'esperienza**. In questo modo, si creano le
-condizioni che consentono all'Intelligenza Artificiale di agire nel
-mondo reale.
-
-Robotics:
-^^^^^^^^^
-
-La branca che studia **come insegnare ai *robot* a interagire con il
-mondo circostante in una maniera generalizzabile e predicibile**, come
-facilitare la manipolazione di oggetti e come relazionarsi con gli
-esseri umani. A questo proposito, sono fondamentali gli avanzamenti
-negli ambiti della *computer vision* e più in generale di ogni forma
-di percezione da parte delle macchine.
-
-Sentiment analysis:
-^^^^^^^^^^^^^^^^^^^
-
-Consiste nell’estrazione e analisi di testi scritti in linguaggio
-naturale da cui si estraggono opinioni che gli utenti esprimono su
-diversi prodotti/servizi e per misurare la percezione della
-reputazione di un’azienda, una PA, un ente o una persona (*brand*).
-Attraverso l’analisi del linguaggio e del testo la *sentiment
-analysis* estrapola informazioni soggettive nelle fonti. In generale
-l’obiettivo principale è determinare la polarità di un documento o
-contenuto in chiave positiva, negativa o neutrale.
-
-Speech Recognition:
-^^^^^^^^^^^^^^^^^^^
-
-Si tratta di strumenti atti a riconoscere il parlato delle persone.
-Vengono utilizzati in moltissime applicazioni, dagli assistenti vocali
-de telefoni cellulari ai *chatbot*. Lo *speech recognition* permette
-di ‘convertire’ il testo in parlato, lo stesso testo può essere quindi
-sfruttato da servizi di *Natural Language Processing* (NLP).
-
-Supervised learning:
-^^^^^^^^^^^^^^^^^^^^
-
-Una tecnica della disciplina del *machine learning* il cui scopo è
-**costruire un sistema informatico in modo da consentirgli di risolvere
-autonomamente dei compiti sulla base di una serie di esempi ideali**,
-fornendo coppie di *input* e di *output* desiderati, che gli vengono
-inizialmente forniti in fase di addestramento.
-
-.. _section-2:
+Qui saranno inserite schede di termini tecnici estratti dal glossario per una migliore lettura del resto del documento.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. [1]
    *Artificial Intelligence and life in 2030*, One hundred year study on
-   Artificial Intelligence, Stanford University, 2016, p. 5.
+   Artificial Intelligence, Stanford University, 2016, p. 5 (*Cfr*.
+   `https://ai100.stanford.edu/2016-report <https://ai100.stanford.edu/2016-report>`__).
 
 .. [2]
    Si pensi al computer Hal9000 di *2001 Odissea nello spazio* (Kubrick,
@@ -410,26 +231,31 @@ inizialmente forniti in fase di addestramento.
    `https://www.eff.org/it/ai/metrics <https://www.eff.org/it/ai/metrics>`__.
 
 .. [4]
-   Cfr. Hila Mehr, *Artificial Intelligence for Citizen Services and
+   *Cfr*. Hila Mehr, *Artificial Intelligence for Citizen Services and
    Government*, Harvard Ash Center for Democratic Governance and
    Innovation, 2017.
 
 .. [5]
+   Medici che, ad esempio, si potrebbero trovare a favorire la conferma
+   della diagnosi "della macchina" per evitare attribuzioni di
+   responsabilità potenzialmente pericolose per la propria professione.
+
+.. [6]
    Si cita il caso del team di ricercatori dell’Università di Bari che
    ha sviluppato un algoritmo che permette di identificare i piccoli
    cambiamenti strutturali provocati dall’Alzheimer una decina di anni
-   prima che i sintomi si manifestino (Cfr.
+   prima che i sintomi si manifestino (*Cfr*.
    `www.uniba.it/ateneo/rettorato/ufficio-stampa/comunicati-stampa/2017/alzheimer <http://www.uniba.it/ateneo/rettorato/ufficio-stampa/comunicati-stampa/2017/alzheimer>`__)
    oppure “Watson for Oncology” di IBM, immaginato come vero e proprio
-   assistente degli oncologi nella lotta contro i tumori (Cfr.
+   assistente degli oncologi nella lotta contro i tumori (*Cfr*.
    `https://www.ibm.com/watson/health/oncology-and-genomics/oncology/ <https://www.ibm.com/watson/health/oncology-and-genomics/oncology/>`__).
 
-.. [6]
+.. [7]
    Si sta parlando di *Intelligent tutoring systems* (Cfr.
    `https://www.techemergence.com/examples-of-artificial-intelligence-in-education/ <https://www.techemergence.com/examples-of-artificial-intelligence-in-education/>`__,
    `http://www.lastampa.it/2017/06/15/multimedia/tecnologia/woogie-lassistente-robot-che-aiuta-i-bambini-a-studiare-e-non-solo-ZlrNV7rKtt3MqoKZ54U3uM/pagina.html <http://www.lastampa.it/2017/06/15/multimedia/tecnologia/woogie-lassistente-robot-che-aiuta-i-bambini-a-studiare-e-non-solo-ZlrNV7rKtt3MqoKZ54U3uM/pagina.html>`__)
 
-.. [7]
+.. [8]
    Si pensi al nuovo sistema di riconoscimento facciale che entrerà in
    funzione la prossima estate all'aeroporto di Dubai. Un sistema che
    sostituirà i controlli di frontiera con una tecnologia basata sulla
@@ -440,27 +266,27 @@ inizialmente forniti in fase di addestramento.
    propri documenti presso dei totem installati nello scalo (soluzione
    di IA presentata lo scorso anno alla `Gulf Information Technology
    Exhibition - GITEX <https://www.gitex.com/>`__, fiera dell'hi-tech e
-   sicurezza che si tiene annualmente a Dubai. Cfr.
+   sicurezza che si tiene annualmente a Dubai. *Cfr*.
    `https://www.gitex.com/ <https://www.gitex.com/>`__).
 
-.. [8]
+.. [9]
    Un esempio sono le simulazioni degli effetti dei tornado e di altri
    eventi naturali, insieme all'elaborazione dei dati prodotti dalle
    centraline di raccolta durante gli eventi stessi, soluzioni che hanno
    coadiuvato in molti casi le autorità a prendere decisioni rispetto a
    dove e come intervenire.
 
-.. [9]
+.. [10]
    In sostanza, questo paradigma prevede che la sicurezza venga
    perseguita già al momento del design delle banche dati e degli
    algoritmi di Intelligenza Artificiale.
 
-.. [10]
+.. [11]
    Hila Mehr, *Artificial Intelligence for Citizen Services and
    Government*, Harvard Ash Center for Democratic Governance and
    Innovation, 2017, p. 8.
 
-.. [11]
+.. [12]
    Il termine “bias” (lett. “pregiudizio”) ha molteplici significati. In
    ambito statistico, così come è utilizzato in molte applicazioni di
    machine learning, il "bias" ha un significato diverso da quello
@@ -475,7 +301,7 @@ inizialmente forniti in fase di addestramento.
    parola "bias" ha poi significati normativi sia nel linguaggio
    colloquiale che giuridico, dove si riferisce ad un giudizio basato su
    nozioni o pregiudizi, in contrasto con un valutazione imparziale dei
-   fatti (Cfr. AI NOW 2017 Report, p. 14 “Bias and inclusion” -
+   fatti (*Cfr*. AI NOW 2017 Report, p. 14 “*Bias and inclusion*” -
    `https://ainowinstitute.org/AI_Now_2017_Report.pdf <https://ainowinstitute.org/AI_Now_2017_Report.pdf>`__).
 
    Per esempio, tecniche di elaborazione del linguaggio naturale formate
@@ -487,10 +313,10 @@ inizialmente forniti in fase di addestramento.
    lavoro, ad esempio in tema di assunzioni, ecco che ci si trova di
    fronte a un caso in cui le disparità esistenti possono essere
    addirittura rafforzate, a prescindere delle intenzioni o dalle
-   conoscenze dei progettisti del sistema (Cfr. AINOW 2017 Report, p. 4
-   “Bias and inclusion”).
+   conoscenze dei progettisti del sistema (*Cfr*. AINOW 2017 Report, p.
+   4 “Bias and inclusion”).
 
-.. [12]
+.. [13]
    Ci sono molti casi di applicazioni di Intelligenza Artificiale che
    possono riprodurre i pregiudizi sociali di chi le ha addestrate o di
    chi le ha programmate, stabilendo ad esempio che è preferibile
@@ -502,12 +328,13 @@ inizialmente forniti in fase di addestramento.
    vigilata ad alcuni detenuti appartenenti a gruppi etnici particolari,
    perché solitamente la loro recidività è molto alta.
 
-.. [13]
+.. [14]
    Si rimanda per una trattazione più dettagliata alla Sfida 1 “Etica”.
 
-.. [14]
+.. [15]
    Per approfondimenti
    `https://hbr.org/2016/11/what-artificial-intelligence-can-and-cant-do-right-now <https://hbr.org/2016/11/what-artificial-intelligence-can-and-cant-do-right-now>`__.
 
-.. [15]
-   Citare SPCoop, LOD, CAD, SEMIC, ecc.
+.. [16]
+   *Cfr*. Il modello di interoperabilità del Piano Triennale:
+   https://pianotriennale-ict.italia.it/interoperabilita.

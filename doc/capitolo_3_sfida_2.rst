@@ -17,7 +17,7 @@ Le nuove frontiere di particolare interesse per la Pubblica
 amministrazione sono quelle relative agli studi e alle ricerche su come
 i sistemi di IA possano essere in grado di cooperare nel modo più
 efficace con gli esseri umani. Questo approccio sfrutta le capacità di
-apprendimento automatico e di adattamento dei sistemi di AI in modo da
+apprendimento automatico e di adattamento dei sistemi di IA in modo da
 fornire un’interazione uomo-macchina che meglio risponda alle esigenze
 degli utenti, ai loro interessi, al contesto reale nel quale operano.
 Diventa dunque importante condurre ricerche consistenti nell’indagine
@@ -86,48 +86,38 @@ qui possiamo menzionare:
    trasporti pubblici, ma anche soluzioni di trasporto a guida autonoma;
    monitoraggio in tempo reale dei dati provenienti dalla sensoristica.
 
--  *Sistema tributario*: analisi di coerenza nel tempo di knowledge
-   bases di diversi ministeri economici ed/o di entità statali (truth
-   maintenance systems) , applicazione di tecniche di problem solving,
-   reasoning ,deduction e recognition a casi di sospetta elusione ed
-   evasione, interfacce in linguaggio naturale per immissione,
-   manutenzione dei dati, dialogo con il pubblico…
+-  *Sistema tributario*: applicazione di tecniche di IA a casi di
+   sospetta elusione ed evasione.
 
-Per quanto concerne invece le ricerche di frontiera sulla stessa IA e
-non “solo” sulle sue applicazioni, che potrebbero portare a grandi
-miglioramenti nell'Intelligenza Artificiale che oggi conosciamo, si
-segnalano quelle sulla cosiddetta *one-shot learning* cioè la capacità
-di apprendere da un solo esempio, ed il *reinforcement learning* per
-apprendere strategie di comportamento; infine le *Strong AI*, legate
-alla *Neuro Evolution* e alla *Brain Intelligence*. Nella *Neuro
-Evolution* si tratta di simulare qualcosa di simile all’autocoscienza.
-La *Brain Intelligence* è invece una tecnica molto promettente che ha
-l’ambizione di poter creare sistemi di IA che comunicano spontaneamente
-tra loro. In questo modo, si spera di risolvere tre problemi tipici
-dell'Intelligenza Artificiale:
-
--  quello del ***frame*** (non basta saper vincere a scacchi o essere in
-   grado di scrivere articoli giornalistici di senso compiuto a partire
-   dai *big data*, ma è necessario saper fare queste due cose insieme a
-   molte altre),
-
--  il ***problema* *associativo*** (la IA non sa fare associazioni
-   spontanee, come invece fa l'uomo, ma ha bisogno che siano gli uomini
-   a farle per lei);
-
--  il ***problema* *simbolico*** (la IA non sa capire per cosa stanno i
-   segni che elabora, ma solo quelli che ricorrono statisticamente con
-   altri segni). [4]_
-
-Non trattiamo qui per brevità il grande capitolo dei modelli
-bioispirati: modelli ispirati alla intelligenza animale, intelligenza
-collettiva ed origami robot, sistemi adattativi ed autoorganizzanti,
-self reproducing automata, dna computing con l’approccio simbolico della
-logica formale e del theorem proving, modelli ispirati alla cellula
-umana, etc... Un orizzonte che si va consolidando con ottimi risultati e
-che sta coniugando in maniera interdisciplinare la chimica delle
-nanostrutture,la biologia,IA,robotica. Un campo fertilissimo in via di
-esplorazione specialmente dopo la mappatura del genoma umano.
++-----------------------------------------------------------------------+
+| Box                                                                   |
+|                                                                       |
+| Il tema dell’IA è decisamente vasto ed ovviamente ogni area di        |
+| applicazione ha le sue peculiarità e ricerche di frontiera. A titolo  |
+| esemplificativo si segnalano quelle sulla cosiddetta *one-shot        |
+| learning*, cioè la capacità di apprendere da un solo esempio, ed il   |
+| reinforcement learning per apprendere strategie di comportamento;     |
+| infine le *Strong AI*, legate alla *Neuro Evolution* e alla *Brain    |
+| Intelligence*. Nella *Neuro Evolution* si tratta di simulare qualcosa |
+| di simile all’autocoscienza. La *Brain Intelligence* è invece una     |
+| tecnica molto promettente che ha l’ambizione di poter creare sistemi  |
+| di IA che comunicano spontaneamente tra loro. In questo modo, si      |
+| spera di risolvere tre problemi tipici dell'Intelligenza Artificiale  |
+| (nella sua declinazione di “intelligenza generalizzata”):             |
+|                                                                       |
+| -  quello del *frame* (non basta saper vincere a scacchi o essere     |
+|    in grado di scrivere articoli giornalistici di senso compiuto a    |
+|    partire dai *big data*, ma è necessario saper fare queste due cose |
+|    insieme a molte altre);                                            |
+|                                                                       |
+| -  il **problema associativo** (la IA non sa fare associazioni        |
+|    spontanee, come invece fa l'uomo, ma ha bisogno che siano gli      |
+|    uomini a farle per lei);                                           |
+|                                                                       |
+| -  il **problema simbolico** (la IA non sa capire per cosa stanno i   |
+|    segni che elabora, ma solo quelli che ricorrono statisticamente    |
+|    con altri segni). [4]_                                             |
++-----------------------------------------------------------------------+
 
 .. [1]
    Le ricerche sulla cosiddetta Full intelligence e sulla Strong AI, sia
@@ -139,11 +129,11 @@ esplorazione specialmente dopo la mappatura del genoma umano.
    deduttivo (ragionamento, planning, decision-making, strategie di
    gioco), di analisi, di esecuzione (movimento, manipolazione) e di
    interazione (uso del linguaggio naturale), non ci richiedono più di
-   un secondo per fornire una risposta a uno stimolo esterno
+   un secondo per fornire una risposta a uno stimolo esterno.
 
 .. [3]
-   Consulta le tecnologie elencate all’interno del capitolo 2
+   Consulta le tecnologie elencate all’interno del capitolo 2.
 
 .. [4]
-   Peter Norvig , S.J. Russel, 2003 - ‘Artificial Intelligence: a modern
-   approach’ - Prentice Hall Series in Artificial Intelligence
+   Peter Norvig, S.J. Russel, 2003 - “*Artificial Intelligence: a
+   modern approach*” - Prentice Hall Series in Artificial Intelligence

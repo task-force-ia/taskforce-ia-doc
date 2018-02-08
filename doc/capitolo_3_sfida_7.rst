@@ -14,9 +14,7 @@ citano:
 
 -  conoscenza e garanzia dei diritti individuali;
 
--  sanità e disabilità, intesa come sostegno alle situazioni di disagio;
-
--  intermediazione transculturale.
+-  sanità e disabilità, intesa come sostegno alle situazioni di disagio.
 
 Nel settore scolastico è ipotizzabile un intervento significativo dei
 sistemi intelligenti di supporto all’apprendimento. C’è una lunga
@@ -31,11 +29,11 @@ di apprendimento degli studenti con problemi cognitivi.
 
 Un altro punto di intervento nel settore scolastico è rappresentato
 dalla riduzione del *gap* linguistico. L’offerta di servizi di
-traduzione simultanea potrebbe aiutare a colmare il divario generato
-dalle nuove ondate migratorie, offrendo dunque una preziosa assistenza
-allo studio [2]_. Le tecnologie di Intelligenza Artificiale potrebbero
-inoltre giocare un ruolo decisivo nella battaglia contro l’analfabetismo
-funzionale.
+traduzione simultanea adeguatamente modellati potrebbe aiutare a colmare
+il divario generato dalle nuove ondate migratorie, offrendo dunque una
+preziosa assistenza allo studio [2]_. Le tecnologie di Intelligenza
+Artificiale potrebbero inoltre giocare un ruolo decisivo nella battaglia
+contro l’analfabetismo funzionale [3]_.
 
 L’IA, inoltre, potrebbe essere applicata per superare i limiti posti
 dall’esigenza di possedere conoscenze specialistiche per svolgere
@@ -59,7 +57,7 @@ che forniscono sistemi di comunicazione atti a completare e facilitare
 il processo comunicativo.
 
 Volendo considerare tipologie di soluzioni di IA già note, l’utilizzo di
-assistenti virtuali potrebbe colmare in maniera trasversale i divari in
+assistenti digitali potrebbe colmare in maniera trasversale i divari in
 diverse categorie: ad esempio grazie all’IA problemi come la dislessia
 potrebbero trovare un monitoraggio e un tentativo di correzione
 attraverso l’uso di assistenti digitali che possono svolgere la funzione
@@ -70,16 +68,6 @@ della necessità di non accrescere le diseguaglianze già esistenti.
 Esistono due livelli di discriminazione potenziale, una che riguarda
 l’accesso e l'uso delle tecnologie di IA e una indotta dagli stessi
 sistemi di IA, basata sulla razza, sul sesso e altri fattori sociali.
-
-Come contrappunto a questo ultimo potenziale problema, si possono
-citare, ad esempio, le grandi e positive opportunità che si aprono
-grazie all'IA sul fronte dell'intermediazione transculturale, per
-stabilire migliori e più solidi ponti tra culture e orientamenti
-differenti. Queste derivano dalle possibilità offerte dai sistemi di
-interazione naturale, di affective computing, dalle connessioni tra IA e
-gamification, dalle discipline delle digital e computational humanities,
-dalle interazioni con le discipline del design e della visualizzazione
-delle informazioni.
 
 È necessario operare per assicurare l’accesso a strumenti e soluzioni di
 IA e la consapevolezza nel loro utilizzo, per evitare che possano fruire
@@ -95,17 +83,18 @@ evolute, che tra l'altro sono quelle più semplici e che garantiscono una
 maggiore accessibilità dei servizi, siano appannaggio esclusivo di
 coloro che, per cultura, per propensione, per estrazione sociale o per
 dotazione tecnologica siano maggiormente predisposti a tali
-utilizzi [3]_.
+utilizzi [4]_.
 
 È necessario che l’amministrazione usi grande cura nell’acquisire o
 nell’indirizzare lo sviluppo delle soluzioni di IA al fine di garantire
 che:
 
--  siano inclusive e rispettino i requisiti di legge;
+-  siano inclusive, accessibili, trasparenti e rispettino i requisiti di
+   legge;
 
 -  non presentino profili discriminatori;
 
--  non contemplino l’esistenza di *bias*.
+-  siano esenti da pregiudizi (*bias*).
 
 Negli ultimi tempi una delle aree di ricerca più attive nel campo
 dell’IA è stata proprio quella dello studio dei *bias* sia dal punto di
@@ -119,7 +108,7 @@ in un dato momento storico e, di conseguenza, le disuguaglianze.
 
 I *bias*, quindi, diventano la base per prendere decisioni, favorendo
 alcuni scenari invece di altri, creando disparità e distribuzioni delle
-opportunità non omogenee [4]_.
+opportunità non omogenee [5]_.
 
 Per far questo, è necessario espandere le strategie di ricerca e
 mitigazione dei bias non limitandole a un approccio strettamente
@@ -129,7 +118,7 @@ profonda ricerca interdisciplinare.
 
 Affrontare e risolvere le criticità connesse ai *bias* richiede dunque
 necessariamente una collaborazione interdisciplinare e metodi di ascolto
-trasversali a diverse discipline [5]_.
+trasversali a diverse discipline [6]_.
 
 Su questo terreno si gioca dunque la partita più importante per la
 prevenzione delle diseguaglianze ed è in questo ambito che la Pubblica
@@ -137,6 +126,33 @@ amministrazione ha il compito di intervenire indirizzando lo sviluppo
 delle soluzioni di IA, conscia dell’enorme potenziale che queste hanno
 nella promozione di una più diffusa equità e nella riduzione dei divari
 esistenti nella nostra società.
+
++-----------------------------------------------------------------------+
+| Box                                                                   |
+|                                                                       |
+| Alcuni casi di *bias* che hanno avuto risalto recentemente:           |
+|                                                                       |
+| Un caso di **bias\discriminazione inconscia** è per esempio la        |
+| percentuale di personale maschile che sviluppa servizi di IA rispetto |
+| alla percentuale femminile (*Cfr*. `Global Gender Gap Report          |
+| 2017 <https://assets.weforum.org/editor/AYpJgsnL2_I9pUhBQ7HII-erCJSEZ |
+| 9dsC4eVn5Ydfck.png>`__,                                               |
+| WEF).                                                                 |
+|                                                                       |
+| Altro caso, all’`interno dei tribunali                                |
+| statunitensi <https://www.propublica.org/article/machine-bias-risk-as |
+| sessments-in-criminal-sentencing>`__                                  |
+| (Software utilizzato negli Stati Uniti con l’obiettivo di prevedere   |
+| quali individui più di altri rischiano di essere “futuri criminali” - |
+| ha messo in evidenza bias/pregiudizi nei confronti di individui di    |
+| colore).                                                              |
+|                                                                       |
+| L’utilizzo estensivo di tecniche di **NLP** sta rapidamente mostrando |
+| `quanto i vocabolari delle lingue più                                 |
+| parlate <https://www.technologyreview.com/s/602025/how-vector-space-m |
+| athematics-reveals-the-hidden-sexism-in-language/>`__,                |
+| siano fortemente affetti da *bias* di genere.                         |
++-----------------------------------------------------------------------+
 
 .. [1]
    Ioannis Panagiotopoulos, Aikaterini Kalou, Christos Pierrakeas,
@@ -149,33 +165,37 @@ esistenti nella nostra società.
 
 .. [2]
    L'utilizzo dell’Intelligenza artificiale al servizio delle traduzioni
-   automatiche è ormai diffuso (si pensi ai casi di Google, DeepL - Cfr.
+   automatiche è ormai diffuso (si pensi ai casi di Google, DeepL -
+   *Cfr*.
 
    `http://www.repubblica.it/tecnologia/prodotti/2017/08/29/news/arriva_deepl_il_traduttore_automatico_che_sfida_google-174078830/ <http://www.repubblica.it/tecnologia/prodotti/2017/08/29/news/arriva_deepl_il_traduttore_automatico_che_sfida_google-174078830/>`__),
    a queste si affiancano in tempi più recenti i sistemi di traduzione
    istantanea e successiva sintesi vocale dei messaggi in una lingua
    desiderata (un esempio è quello del sistema attualmente in fase di
-   sviluppo da parte di BabelOn Technologies - cfr.
+   sviluppo da parte di BabelOn Technologies - *Cfr*.
    `https://www.youtube.com/watch?v=sGdZsvLNuko <https://www.youtube.com/watch?v=sGdZsvLNuko>`__,
    oppure quello delle cuffie Google che permettono di tradurre
    all’istante ogni conversazione) che aprono interessanti prospettive
    di utilizzo in ambito scolastico.
 
 .. [3]
-   Secondo l’ articolo 8 del Codice dell’Amministrazione Digitale (D.
-   Lgs. n. 82/20015), lo Stato e le pubbliche amministrazioni
-   “\ *promuovono iniziative volte a favorire la diffusione della
-   cultura digitale tra i cittadini con particolare riguardo ai minori e
-   alle categorie a rischio di esclusione, anche al fine di favorire lo
-   sviluppo di competenze di informatica giuridica e l'utilizzo dei
-   servizi digitali delle pubbliche amministrazioni con azioni
-   specifiche e concrete*\ ”.
+   Per approfondimenti *Cfr*.
+   `https://www.compareyourcountry.org/pisa/country/ITA?lg=en <https://www.compareyourcountry.org/pisa/country/ITA?lg=en>`__.
 
 .. [4]
-   Episodi di questo genere si sono verificati in molti casi: negli
-   algoritmi di rating, di assegnazione dei lavori della gig economy e,
-   in generale, nel lavoro mediato algoritmicamente.
+   Secondo l’art. 8 del Codice dell’Amministrazione Digitale (D.Lgs. n.
+   82/20015), lo Stato e le pubbliche amministrazioni “*promuovono
+   iniziative volte a favorire la diffusione della cultura digitale tra
+   i cittadini con particolare riguardo ai minori e alle categorie a
+   rischio di esclusione, anche al fine di favorire lo sviluppo di
+   competenze di informatica giuridica e l'utilizzo dei servizi digitali
+   delle pubbliche amministrazioni con azioni specifiche e concrete*”.
 
 .. [5]
-   Cfr. AINOW 2017 Report, p. 2 “Expand AI bias research and mitigation
-   strategies beyond a narrowly technical approach”
+   Episodi di questo genere si sono verificati in molti casi: negli
+   algoritmi di rating, di assegnazione dei lavori della *gig economy*
+   e, in generale, nel lavoro mediato algoritmicamente.
+
+.. [6]
+   *Cfr*. AINOW 2017 Report, p. 2 “*Expand AI bias research and
+   mitigation strategies beyond a narrowly technical approach*”.

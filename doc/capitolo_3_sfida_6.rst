@@ -27,17 +27,17 @@ ottimizzare le risorse interne della PA per incrementare l’utilizzo dei
 servizi online, supportando, ad esempio, una serie di attività come:
 
     - portare a termine compiti complessi;
-    
+
     - smistare le richieste e rispondere alle domande dei cittadini;
-    
+
     - gestire efficacemente grandi quantità di dati;
-    
+
     - combinare informazioni provenienti da *dataset* diversi;
-    
+
     - dare risposte più veloci sulla base di scenari predittivi;
-    
+
     - automatizzare processi ripetitivi;
-    
+
     - analizzare dati che includono informazioni testuali/audio e video [1]_.
 
 Infine, l’integrazione dell’IA può contribuire ad aumentare le capacità
@@ -96,7 +96,7 @@ nazionale. [4]_
 
 A questo proposito, i sistemi di rappresentazione della conoscenza e
 auto-apprendimento possono costituire un valido aiuto per aumentare
-l\ *’accountability* dei modelli. L’adozione di modalità collaborative
+l*’accountability* dei modelli. L’adozione di modalità collaborative
 può ulteriormente assicurare che i modelli adottati siano compatibili
 con la PA e si mantengano in coerenza con il quadro normativo.
 
@@ -120,7 +120,7 @@ per la diffusione del PCP (*pre commercial procurement*).
 +-----------------------------------------------------------------------+
 | Box                                                                   |
 |                                                                       |
-| L’\ **appalto pre-commerciale (PCP)** è una formula innovativa di     |
+| L’**appalto pre-commerciale (PCP)** è una formula innovativa di       |
 | acquisto sui temi di Ricerca e Sviluppo, che abilita il *procurement* |
 | a nuove modalità di relazione e confronto con il mercato, in linea    |
 | con le grandi sfide poste da una Pubblica amministrazione             |
@@ -128,7 +128,7 @@ per la diffusione del PCP (*pre commercial procurement*).
 | e innovazione pubblica: dall’autismo alla protezione dai rischi       |
 | ambientali, alla sicurezza e la qualità degli alimenti fino a         |
 | soluzioni tecnologiche innovative applicate all’assistenza sanitaria  |
-| e all’\ *e-government*. Non solo grandi imprese ma anche startup,     |
+| e all’*e-government*. Non solo grandi imprese ma anche startup,       |
 | piccole imprese e venture capitalist hanno la possibilità di          |
 | presentare idee e proposte innovative.                                |
 |                                                                       |
@@ -145,27 +145,27 @@ per la diffusione del PCP (*pre commercial procurement*).
    Government*, HARVARD Kennedy School - ASH Center for Democratic
    Governance and Innovation (2017)
 
-   Cfr.
+   *Cfr*.
    https://ash.harvard.edu/files/ash/files/artificial_intelligence_for_citizen_services.pdf
    (consultato a febbraio 2018).
 
 .. [2]
    *The role of design in collaborative AI*, Medium, 4,11, 2017
    `https://medium.com/@newcortex.ai/the-role-of-design-in-collaborative-ai-ca18c1e69d0b <https://medium.com/@newcortex.ai/the-role-of-design-in-collaborative-ai-ca18c1e69d0b>`__
-   (consultato a febbraio 2017)
+   (consultato a febbraio 2017).
 
 .. [3]
    *Human Design for Artificial Intelligence and Agents*, 19, 10, 2017
 
-   Cfr.
+   *Cfr*.
    `https://medium.com/@Punchcut/human-design-for-artificial-intelligence-and-agents-a5b5a606e1b <https://medium.com/@Punchcut/human-design-for-artificial-intelligence-and-agents-a5b5a606e1b>`__
    (consultato a febbraio 2017).
 
 .. [4]
    Capitolo 4 “Infrastrutture immateriali”, Piano Triennale per
-   l’informatica nella Pubblica Amministrazione 2017-2019 - Cfr.
+   l’informatica nella Pubblica Amministrazione 2017-2019 - *Cfr*.
    `http://pianotriennale-ict.readthedocs.io/it/latest/doc/04_infrastrutture-immateriali.html <http://pianotriennale-ict.readthedocs.io/it/latest/doc/04_infrastrutture-immateriali.html>`__
-   (Consultato a febbraio 2018)
+   (Consultato a febbraio 2018).
 
 .. [5]
    L’Italia è prima nella
@@ -176,4 +176,4 @@ per la diffusione del PCP (*pre commercial procurement*).
 
 .. [6]
    Per informazioni su PCP e gare nazionali:
-   `http://www.agid.gov.it/agenda-digitale/innovazione-del-mercato <http://www.agid.gov.it/agenda-digitale/innovazione-del-mercato>`__
+   `http://www.agid.gov.it/agenda-digitale/innovazione-del-mercato <http://www.agid.gov.it/agenda-digitale/innovazione-del-mercato>`__.

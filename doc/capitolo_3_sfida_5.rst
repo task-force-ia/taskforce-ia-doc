@@ -5,12 +5,12 @@ Quando si tratta di disciplinare l’attività della Pubblica
 amministrazione, uno dei problemi fondamentali è il bilanciamento tra
 gli interessi della collettività e quelli dell’individuo. Nell’ambito
 dell’Intelligenza Artificiale (IA) garantire questo equilibrio è
-particolarmente complesso. Le soluzioni di IA si avvalgono di dati,
-spesso sensibili. Per questo motivo è necessario analizzare alcune delle
-principali questioni giuridiche che possono interessare l’IA. Tra
-queste: il principio di trasparenza degli atti amministrativi, la
-responsabilità giuridica, la *privacy*, la sicurezza informatica e la
-proprietà intellettuale.
+particolarmente complesso. Le soluzioni di IA necessitano di enormi
+quantità di dati, spesso sensibili, per poter essere efficaci. Per
+questo motivo è necessario analizzare alcune delle principali questioni
+giuridiche che possono interessare l’IA. Tra queste: il principio di
+trasparenza degli atti amministrativi, la responsabilità giuridica, la
+*privacy*, la sicurezza informatica e la proprietà intellettuale.
 
 Nell’ambito delle attività della Pubblica amministrazione il principio
 di trasparenza è cardinale e perciò dovrà ispirare anche la
@@ -38,7 +38,7 @@ Pubblica amministrazione di fronte ad una serie di sfide:
 
 Per garantire la massima trasparenza, il cittadino dovrà essere messo in
 condizione di comprendere attraverso quale percorso il sistema IA è
-pervenuto a un determinato risultato.
+pervenuto a un determinato risultato [2]_.
 
 L’utilizzo di dati sensibili da parte dei sistemi IA della Pubblica
 amministrazione può compromettere il diritto alla *privacy* del
@@ -63,9 +63,21 @@ identificativi del cittadino siano anonimi o coperti da pseudonimo,
 ridotti al minimo indispensabile e che il loro utilizzo sia circoscritto
 a specifiche finalità. La sfida è chiaramente quella di trovare un
 bilanciamento tra lo sviluppo dell’Intelligenza Artificiale e il
-rispetto del diritto alla riservatezza dei cittadini, dandogli la
-possibilità di esprimere il proprio consenso al trattamento di dati da
-parte dei sistemi intelligenti.
+rispetto del diritto alla riservatezza dei cittadini, dando a questi
+ultimi la possibilità di esprimere il proprio consenso al trattamento di
+dati da parte dei sistemi intelligenti.
+
+Per assicurare che le soluzioni di IA acquisite (o sviluppate) dalla
+Pubblica amministrazione rispettino quanto previsto dalle norme vigenti
+è necessario poi curare con attenzione le procedure di
+approvvigionamento di beni e servizi. In particolare, è opportuno che -
+prima della determina a contrarre - l'amministrazione proceda alla
+verifica comparativa delle soluzioni disponibili sul mercato,
+eventualmente procedendo ad apposite consultazioni. È raccomandabile,
+inoltre, che - in caso di gara - vengano puntualmente definiti i
+requisiti e le caratteristiche delle soluzioni di IA, con particolare
+riferimento al rispetto delle leggi vigenti, in modo da garantire sempre
+la legittimità dell'attività dell'amministrazione.
 
 .. [1]
    Proprio a tal proposito il `Codice di Amministrazione
@@ -78,3 +90,11 @@ parte dei sistemi intelligenti.
    inadempienze o violazioni connesse all’utilizzo di sistemi digitali
    (potenzialmente anche di soluzioni IA) da parte dell’amministrazione
    pubblica.
+
+.. [2]
+   La giurisprudenza ha già sancito che - nel caso in cui algoritmi
+   vengano utilizzati per l'attività amministrativa - debba essere
+   sempre garantito il diritto di accesso all'algoritmo, in modo da
+   consentire di verificare che abbia agito correttamente e nel rispetto
+   delle leggi applicabili (*Cfr*. sentenza TAR Lazio-Roma, Sez.
+   III-bis, n. 3769/2017).

@@ -45,7 +45,7 @@ con gli indicatori oggi esistenti.
 In ogni caso bisogna tenere presente che le modalità con cui viene
 effettuata la misurazione dell'impatto possono promuovere una migliore
 comprensione da parte degli utilizzatori dei servizi e favorire la
-transizione verso nuovi modelli di *governance*\  [2]_.
+transizione verso nuovi modelli di *governance* [2]_.
 
 Mappare i bisogni e definire gli obiettivi di impatto con tutti gli
 attori coinvolti, raccogliendo informazioni in tempo reale su come
@@ -57,7 +57,7 @@ Purtroppo tali valutazioni non sono aggiornate così frequentemente come
 dovrebbero, a causa di limitazioni finanziarie o indisponibilità di
 valutatori competenti. Essendo la valutazione delle politiche
 comunemente basata sui dati, l’IA potrebbe abilitare un’analisi più
-rapida e accurata
+rapida e accurata.
 
 Un maggior equilibrio nell’analisi di opportunità e rischi potrebbe
 rappresentare un fattore importante per aumentare la consapevolezza del
@@ -74,11 +74,6 @@ Gli strumenti di misurazione devono essere rigorosi per determinare gli
 effettivi impatti sociali dell’IA e per definire quanto tali tecnologie
 riescano ad influenzare concretamente la nostra vita.
 
-E per concludere, teniamo bene a mente che ,avendo tali sistemi di IA
-superato il test di Turing per essere definiti tali, è complicato e
-questionabile definire per essi una batteria di test unica . Risulta
-complicato anche per misurare l’intelligenza umana!
-
 .. [1]
    Justin Trudeau, Premier canadese, nel suo discorso al World Economic
    Forum Annual Meeting 2018
@@ -92,14 +87,16 @@ complicato anche per misurare l’intelligenza umana!
 .. [3]
    European Commission - DG for Research and Innovation, Directorate A -
    Policy Development and Coordination, Unit A.6 - Open Data, Policy and
-   Science Cloud; “Vision and Trends of Social Innovation for Europe”,
-   2017
+   Science Cloud; “*Vision and Trends of Social Innovation for
+   Europe*”, 2017.
 
 .. [4]
    Si consideri un caso che viene dall’UK, dove si è tentato di misurare
    l’impatto dell’IA nella vita delle persone monitorando la variazione
    delle ore di sonno di un campione di popolazione
-   (`https://www.pwc.co.uk/economic-services/assets/ai-uk-report-v2.pdf <https://www.pwc.co.uk/economic-services/assets/ai-uk-report-v2.pdf>`__).
+
+   (*Cfr*.
+   `https://www.pwc.co.uk/economic-services/assets/ai-uk-report-v2.pdf <https://www.pwc.co.uk/economic-services/assets/ai-uk-report-v2.pdf>`__).
 
 .. [5]
    Recenti ricerche sui network neurali hanno sperimentato l’utilizzo di

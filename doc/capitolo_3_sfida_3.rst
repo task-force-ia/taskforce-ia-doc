@@ -2,34 +2,25 @@ Sfida 3: Competenze
 -------------------
 
 Mentre tutti noi nel quotidiano iniziamo a confrontarci con strumenti di
-Intelligenza Artificiale (IA) (e.g. dalle *chatbot* agli assistenti
-virtuali, fino a sistemi automatizzati di calcolo e di gestione del
-traffico), si registra una diversa familiarità nel suo utilizzo nei
-contesti professionali o nella Pubblica amministrazione. [1]_
+Intelligenza Artificiale (e.g. dalle *chatbot* agli assistenti virtuali,
+fino a sistemi automatizzati di calcolo e di gestione del traffico), si
+registra una diversa familiarità nel suo utilizzo nei contesti
+professionali o nella Pubblica amministrazione. [1]_
 
 Il mondo del lavoro è interessato da una profonda trasformazione e nel
 breve periodo assisteremo ad una evoluzione delle professioni: ne
 nasceranno di nuove mentre quelle esistenti verranno ampiamente
 modificate con l’introduzione di nuovi processi e metodologie [2]_.
 
-Oltretutto, si renderà necessario estendere la capacità di preparare
-persone che siano in grado di progettare e sviluppare sistemi e
-applicazioni di IA, anche in diretta e profonda collaborazione con la
-ricerca e i grandi operatori della tecnologia globale.
+Sarà necessario far sì che le persone siano in grado di progettare e
+sviluppare sistemi e applicazioni di IA, anche in diretta e profonda
+collaborazione con la ricerca e i grandi operatori della tecnologia.
 
 Allo stesso modo sarà di fondamentale importanza coltivare e sviluppare
-quelle capacità e competenze che possano essere messe in campo per
-progettare e sviluppare le esperienze di interazione tra esseri umani e
-IA, che diventeranno sempre più complesse in virtù della possibilità di
-toccare il linguaggio, la gestualità, il corpo, le emozioni e le tante
-altre dimensioni espressive dell'umanità. Per questo, saranno
-progressivamente necessarie professionalità e competenze di traduzione
-(nel senso in cui il Design è "traduzione") e di interconnessione tra
-discipline e ambiti differenti, in cui designer, artisti, psicologi,
-tecnologi, scienziati dei materiali, esperti della transmedialità,
-ricercatori, giuristi e altri possano convergere per progettare quei
-sistemi di interazione e partecipazione che saranno capaci di
-posizionarsi in maniera significativa nella nostra società.
+le capacità necessarie all’interazione tra esseri umani e IA, che
+diventeranno sempre più complesse in virtù della possibilità di toccare
+il linguaggio, la gestualità, il corpo, le emozioni e le tante altre
+dimensioni espressive dell'umanità [3]_.
 
 Il consolidamento delle competenze risulta pertanto cruciale per
 allinearsi ai grandi cambiamenti tecnologici e socio-economici a cui il
@@ -41,14 +32,14 @@ agire: quello, più specifico, della formazione dei lavoratori pubblici e
 privati, sia dal lato della domanda che da quello dell'offerta, quello
 più generalista, ma non meno importante, dell'alfabetizzazione di tutti
 al pieno utilizzo dei servizi digitali, e quello più avanzato della
-preparazione specialistica e transdisciplinare..
+preparazione specialistica e transdisciplinare.
 
 Nel secondo ambito, quello dell’alfabetizzazione, è importante aiutare
 le persone a comprendere cosa sia l'Intelligenza Artificiale e quali
 benefici può concretamente apportare, per consentire loro di utilizzare
 al meglio i servizi offerti, infondendo nell’immaginario un approccio
 positivo e ottimistico ed evitando il rifiuto di ciò che è
-sconosciuto [3]_. Inoltre, poiché la relazione con l'IA avviene in buona
+sconosciuto [4]_. Inoltre, poiché la relazione con l'IA avviene in buona
 parte per mezzo di interfacce naturali - come il parlato, il testo
 scritto e i gesti -, è necessario “alfabetizzare” il cittadino con
 l’obiettivo di ridurre il gap di accesso a tali tecnologie.
@@ -91,7 +82,7 @@ di stabilire interconnessioni significative tra le discipline, in modo
 da poter creare nuove generazioni di progettisti che siano in grado di
 ideare sistemi di eccellenza tecnologica che siano anche in grado di
 generare senso e tangibile aumento del benessere economico, culturale,
-sociale e psicologico..
+sociale e psicologico.
 
 Vi è attualmente una sproporzione tra la domanda di figure
 specialistiche nei settori delle tecnologie avanzate e disponibilità di
@@ -99,7 +90,7 @@ competenze adeguate, sicché il settore privato è disposto a pagare
 stipendi altissimi per poter competere nel mercato dell’innovazione con
 il contributo dei migliori talenti. Una sfida della PA sarà quella di
 riuscire a trattenere ricercatori e professionisti pur non potendo
-competere con i livelli salariali offerti dal settore privato [4]_. Le
+competere con i livelli salariali offerti dal settore privato [5]_. Le
 competenze interne alle amministrazioni rappresentano infatti un fattore
 determinante per l’introduzione equilibrata delle nuove tecnologie, per
 le quali è importante che le amministrazioni non si trovino ad essere
@@ -119,11 +110,11 @@ può contribuire ad aumentare le capacità umane, supportando il *decision
 making* e favorendo la possibilità di dedicarsi ad attività più
 specialistiche o maggiormente creative.
 
-L’obiettivo dell’Intelligenza Artificiale e dei sistemi cognitivi è
-proprio quello di aumentare le capacità umane.
+Uno degli obiettivi dell’Intelligenza Artificiale applicata ai sistemi
+cognitivi è proprio quello di aumentare le capacità umane.
 
 La Pubblica amministrazione, in quest’ottica, deve diventare “palestra
-di innovazione”: così come, grazie al Piano Industria 4.0 [5]_, le
+di innovazione”: così come, grazie al Piano Industria 4.0 [6]_, le
 imprese sanno di dover implementare mezzi e competenze per stare al
 passo con il mercato, anche la PA, se non vuole perdere in capacità,
 competitività e attrattività, dovrà dotarsi di un piano che consenta di
@@ -145,14 +136,17 @@ digitali.
    the Future of Jobs*, Pew Research Center 6 (2014).
 
 .. [3]
-   Cfr. Sfida 9 “L’essere umano”
+   *Cfr*. Sfida 9 “L’essere umano”.
 
 .. [4]
-   Cade Metz, *Tech Giants are paying huge salaries for scarce AI
-   talent*, The New York Times, 22, 10, 2017.
-   `https://www.nytimes.com/2017/10/22/technology/artificial-intelligence-experts-salaries.html <https://www.nytimes.com/2017/10/22/technology/artificial-intelligence-experts-salaries.html>`__.
+   *Cfr*. Sfida 9 “L’essere umano”.
 
 .. [5]
+   Cade Metz, *Tech Giants are paying huge salaries for scarce AI
+   talent*, The New York Times, 22, 10, 2017.
+   https://www.nytimes.com/2017/10/22/technology/artificial-intelligence-experts-salaries.html.
+
+.. [6]
    Introdotto la prima volta nel settembre 2016 dal Ministero dello
    Sviluppo Economico, il Piano nazionale Industria 4.0 (ora `Impresa
    4.0 <http://www.sviluppoeconomico.gov.it/index.php/it/per-i-media/notizie/2037096-piano-nazionale-impresa-4-0-i-risultati-del-2017-e-le-linee-guida-per-il-2018>`__)
@@ -168,5 +162,7 @@ digitali.
    agire su fattori abilitanti. Sono state potenziate e indirizzate in
    una logica 4.0 tutte le misure che si sono rilevate efficaci e, per
    rispondere pienamente alle esigenze emergenti, ne sono state previste
-   di nuove (Cfr.
+   di nuove
+
+   (*Cfr*.
    `http://www.sviluppoeconomico.gov.it/index.php/it/industria40 <http://www.sviluppoeconomico.gov.it/index.php/it/industria40>`__).

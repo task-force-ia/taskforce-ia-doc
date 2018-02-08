@@ -15,13 +15,12 @@ economico e culturale.
 
 Per accelerare questo processo di trasformazione è possibile ispirarsi a
 esperienze internazionali che hanno portato risultati tangibili:
-l’Italia deve eccellere nella ricerca di strategie innovative che siano
+l’Italia deve eccellere nella ricerca di strategie innovative, magari
 capaci di nutrirsi della ricchezza storica, culturale e sociale del
-Paese e del Mediterraneo e, allo stesso tempo, riuscire a cogliere
-quanto di meglio sia emerso dalle strategie di quegli Stati che, per
-primi, hanno saputo fare dell’evoluzione dell’informatica pubblica, la
-leva per la transizione verso un nuovo assetto globale di economia e
-società come ad esempio Danimarca, Finlandia e Svezia.
+Paese e del Mediterraneo e allo stesso tempo riuscire a cogliere quanto
+di meglio sia emerso dalle strategie di quegli Stati che, per primi,
+hanno saputo fare dell’evoluzione dell’informatica pubblica la leva per
+la transizione verso un nuovo assetto globale di economia e società.
 
 È quindi necessario sostenere le forze di innovazione del Paese per
 ottenere modelli sempre più competitivi e avviare un cambiamento
@@ -44,10 +43,12 @@ La situazione italiana
 Prima di descrivere lo stato dell’arte e le prospettive future
 dell’Intelligenza Artificiale nella nostra società e nella Pubblica
 amministrazione, può essere utile analizzare ciò che sta avvenendo nel
-campo della trasformazione digitale nel settore pubblico.
+campo della trasformazione digitale nel settore pubblico per capire la
+situazione attuale e immaginare come l’IA può creare sinergie con il
+processo di digitalizzazione del Paese.
 
 Come evidenzia il *Digital Economy and Society Index - DESI
-2017*\  [1]_, l’Italia cresce, ma si riscontra ancora un divario tra
+2017* [1]_, l’Italia cresce, ma si riscontra ancora un divario tra
 l’offerta di servizi digitali e il loro effettivo utilizzo. Il nostro
 Paese ha comunque fatto progressi sulla connettività, condizione di base
 per permettere lo sviluppo di un ecosistema digitale, grazie anche al
@@ -69,11 +70,12 @@ sul dinamismo italiano delle startup e delle pubbliche e medie imprese
 (PMI) innovative. Nel nostro Paese, secondo un censimento aggiornato al
 2017 [3]_, sono circa 8.000, il doppio rispetto al 2015, e danno lavoro
 a 46.107 persone, tra soci e dipendenti. Il mercato digitale è in
-crescita, gli investimenti aumentano e il settore ICT registra una fase
-di sviluppo: nel 2016, è cresciuto dell’1,8 % raggiungendo i 66 miliardi
-di euro di fatturato [4]_. Così come cresce la domanda di competenze
-digitali di livello elevato, in un contesto in cui solo il 29% della
-forza lavoro le possiede rispetto ad una media UE del 37% [5]_.
+crescita e il settore ICT registra una fase di sviluppo anche grazie
+all’aumento degli investimenti: nel 2016, è cresciuto dell’1,8 %
+raggiungendo i 66 miliardi di euro di fatturato [4]_. Così come cresce
+la domanda di competenze digitali di livello elevato, in un contesto in
+cui solo il 29% della forza lavoro le possiede rispetto ad una media UE
+del 37% [5]_.
 
 Per quanto riguarda i servizi pubblici digitali, come conferma ancora il
 DESI, l’Italia si posiziona nella parte alta della classifica per
@@ -125,14 +127,14 @@ Intelligenza Artificiale applicati ai servizi, argomento centrale di
 questo libro bianco, è solo uno dei settori in cui l’Italia sta cercando
 di raggiungere gli obiettivi del Piano triennale per l’informatica nella
 Pubblica amministrazione. A questo specifico scopo, è stata istituita la
-“\ *Task force* Intelligenza Artificiale al servizio del
+“*Task force* Intelligenza Artificiale al servizio del
 cittadino” [11]_ che ha il compito di ragionare sulle nuove possibilità
 offerte da questo genere di tecnologie, in generale nella nostra vita
 quotidiana e, più nello specifico, nella costruzione di un nuovo
 rapporto tra Stato e cittadini.
 
 **Inserimento Schede integrative sui progetti legati al Piano Triennale
-(Spid, PagoPa) - a cura di AgID**
+(SPID, PagoPa) - a cura di AgID**
 
 .. _section-1:
 
@@ -159,7 +161,7 @@ rapporto tra Stato e cittadini.
    `www.assinform.it/pubblicazioni/rapporto_assinform.kl <http://www.assinform.it/pubblicazioni/rapporto_assinform.kl>`__.
 
 .. [5]
-   Cfr. nota 1.
+   *Cfr*. nota 1.
 
 .. [6]
    14\ :sup:`a` edizione del report Benchmark Measurement of European
@@ -172,7 +174,7 @@ rapporto tra Stato e cittadini.
    Society in Europa, la cui elaborazione è propedeutica al calcolo del
    DESI (Digital Economy and Society Index)
 
-   Cfr.
+   *Cfr*.
    `http://ec.europa.eu/eurostat/web/digital-economy-and-society/data/main-tables <http://ec.europa.eu/eurostat/web/digital-economy-and-society/data/main-tables>`__
 
 .. [8]
@@ -204,7 +206,7 @@ rapporto tra Stato e cittadini.
 
 .. [10]
    Il sito ufficiale del Piano Triennale per l’informatica della
-   Pubblica amministrazione 2017-2019 - Cfr.
+   Pubblica amministrazione 2017-2019 - *Cfr*.
    `https://pianotriennale-ict.italia.it/ <https://pianotriennale-ict.italia.it/>`__.
 
 .. [11]
