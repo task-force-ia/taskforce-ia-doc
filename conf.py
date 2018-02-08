@@ -3,9 +3,6 @@
 
 import sys
 import os
-import recommonmark
-from recommonmark.parser import CommonMarkParser
-from recommonmark.transform import AutoStructify
 
 # -- PROJECT Variables ----------------------------------------------------
 settings_project_name = 'White paper IA'
@@ -31,18 +28,8 @@ extensions = [
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
-source_parsers = {
-   '.md': CommonMarkParser,
-}
-
-def setup(app):
-    app.add_config_value('recommonmark_config', {
-        'enable_eval_rst': True,
-    }, True)
-    app.add_transform(recommonmark.transform.AutoStructify)
-
 # The suffix of source filenames.
-source_suffix = ['.rst', '.md']
+source_suffix = ['.rst']
 
 # The encoding of source files.
 #source_encoding = 'utf-8-sig'
