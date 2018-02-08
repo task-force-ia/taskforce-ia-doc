@@ -74,5 +74,5 @@ Le amministrazioni, gli addetti ai lavori, le realtà che studiano o
 lavorano con l’IA e chiunque intenda dare il proprio contributo sono
 invitati a partecipare alla presente consultazione.
 
-*L’Associazione AI**IA ha inviato un contributo al libro bianco che sarà
+*L’Associazione AI*IA ha inviato un contributo al libro bianco che sarà
 integrato nel corso della consultazione.*
