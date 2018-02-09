@@ -5,7 +5,7 @@ Questa prima versione del libro bianco viene pubblicata dopo un percorso
 di ricerca, analisi, confronto e stesura partecipata all’interno del
 coordinamento della task force
 
-Il documento, che è in consultazione fino all’11 marzo 2018, non ha
+Il documento, che è in consultazione fino all’**11 marzo 2018**, non ha
 l’ambizione di trattare i molteplici aspetti e le implicazioni relative
 all’Intelligenza Artificiale.
 
@@ -49,7 +49,7 @@ alla versione definitiva del testo, di leggere con molta attenzione cosa
 
 **Istruzioni per la consultazione pubblica**
 
-Il libro bianco è in consultazione fino all’11 marzo 2018.
+Il libro bianco è in consultazione fino all’**11 marzo 2018**.
 
 **Come partecipare**
 
