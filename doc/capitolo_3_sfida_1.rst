@@ -134,6 +134,9 @@ natura economico-sociale), così come il soddisfacimento di alcuni
 bisogni di base universali tra cui il rispetto delle libertà e dei
 diritti degli individui e della collettività [10]_.
 
+.. discourse::
+   :topic_identifier: 751
+
 .. [1]
    *Cfr*. Umberto Eco, *Apocalittici e integrati*, ed. Bompiani, 1964,
    Bolter, J.D, Grusin, R. 1999, Remediation. Understanding News Media,
@@ -203,6 +206,3 @@ diritti degli individui e della collettività [10]_.
    ma aperte anche agli stakeholder, al fine di capire quali sono i
    codici e le carte etiche da applicare alle varie sfere della vita
    civile.
-
-.. discourse::
-   :topic_identifier: 751

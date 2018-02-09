@@ -140,6 +140,9 @@ per la diffusione del PCP (*pre commercial procurement*).
 | condizione dello spettro autistico (ASC) [6]_.                        |
 +-----------------------------------------------------------------------+
 
+.. discourse::
+   :topic_identifier: 756
+
 .. [1]
    Hila Mehr, *Artificial Intelligence for Citizen Services and
    Government*, HARVARD Kennedy School - ASH Center for Democratic
@@ -177,6 +180,3 @@ per la diffusione del PCP (*pre commercial procurement*).
 .. [6]
    Per informazioni su PCP e gare nazionali:
    `http://www.agid.gov.it/agenda-digitale/innovazione-del-mercato <http://www.agid.gov.it/agenda-digitale/innovazione-del-mercato>`__.
-
-.. discourse::
-   :topic_identifier: 756

@@ -119,6 +119,9 @@ qui possiamo menzionare:
 |    con altri segni). [4]_                                             |
 +-----------------------------------------------------------------------+
 
+.. discourse::
+   :topic_identifier: 752
+   
 .. [1]
    Le ricerche sulla cosiddetta Full intelligence e sulla Strong AI, sia
    sul lato della Neuro Evolution (NE), sia su quello della Brain
@@ -137,6 +140,3 @@ qui possiamo menzionare:
 .. [4]
    Peter Norvig, S.J. Russel, 2003 - “*Artificial Intelligence: a
    modern approach*” - Prentice Hall Series in Artificial Intelligence
-
-.. discourse::
-   :topic_identifier: 752

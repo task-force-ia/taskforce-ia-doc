@@ -154,6 +154,9 @@ esistenti nella nostra società.
 | siano fortemente affetti da *bias* di genere.                         |
 +-----------------------------------------------------------------------+
 
+.. discourse::
+   :topic_identifier: 757
+
 .. [1]
    Ioannis Panagiotopoulos, Aikaterini Kalou, Christos Pierrakeas,
    Achilles Kameas; An Ontology-Based Model for Student representation
@@ -199,6 +202,3 @@ esistenti nella nostra società.
 .. [6]
    *Cfr*. AINOW 2017 Report, p. 2 “*Expand AI bias research and
    mitigation strategies beyond a narrowly technical approach*”.
-
-.. discourse::
-   :topic_identifier: 757

@@ -74,6 +74,9 @@ Gli strumenti di misurazione devono essere rigorosi per determinare gli
 effettivi impatti sociali dell’IA e per definire quanto tali tecnologie
 riescano ad influenzare concretamente la nostra vita.
 
+.. discourse::
+   :topic_identifier: 758
+
 .. [1]
    Justin Trudeau, Premier canadese, nel suo discorso al World Economic
    Forum Annual Meeting 2018
@@ -107,6 +110,3 @@ riescano ad influenzare concretamente la nostra vita.
    government revenue effort under decentralization: a neural-network
    approach Environment and Planning C: Government and Policy 23(5)
    657-677).
-
-.. discourse::
-   :topic_identifier: 758

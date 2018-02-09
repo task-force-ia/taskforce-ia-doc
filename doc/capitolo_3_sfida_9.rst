@@ -105,6 +105,9 @@ a livello internazionale, costruito proprio sulla capacità di
 iniziative in cui artisti e *designer* lavorino fianco a fianco con
 ricercatori, umanisti, ingegneri e manager in ambito di IA.
 
+.. discourse::
+   :topic_identifier: 759
+
 .. [1]
    Robert Merton fu il primo ad adottare questa definizione nel 1948:
    “una supposizione o profezia che per il solo fatto di essere stata
@@ -137,6 +140,3 @@ ricercatori, umanisti, ingegneri e manager in ambito di IA.
    università del mondo come MIT, Stanford, Carnegie Mellon, Royal
    College of Arts, Cambridge e le tante università Cinesi e Indiane che
    hanno già approntato percorsi formativi e di ricerca dedicati.
-
-.. discourse::
-   :topic_identifier: 759

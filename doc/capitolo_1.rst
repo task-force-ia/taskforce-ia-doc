@@ -136,7 +136,8 @@ rapporto tra Stato e cittadini.
 **Inserimento Schede integrative sui progetti legati al Piano Triennale
 (SPID, PagoPa) - a cura di AgID**
 
-.. _section-1:
+.. discourse::
+   :topic_identifier: 747
 
 .. [1]
    Il Digital Economy and Society Index (DESI) è l’indice elaborato
@@ -212,6 +213,3 @@ rapporto tra Stato e cittadini.
 .. [11]
    Il sito ufficiale della Task force IA
    `https://ia.italia.it <https://ia.italia.it/>`__.
-
-.. discourse::
-   :topic_identifier: 747

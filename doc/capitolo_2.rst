@@ -215,6 +215,9 @@ infatti, proprio quello degli acquisti pubblici.
 Qui saranno inserite schede di termini tecnici estratti dal glossario per una migliore lettura del resto del documento.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. discourse::
+   :topic_identifier: 748
+
 .. [1]
    *Artificial Intelligence and life in 2030*, One hundred year study on
    Artificial Intelligence, Stanford University, 2016, p. 5 (*Cfr*.
@@ -338,6 +341,3 @@ Qui saranno inserite schede di termini tecnici estratti dal glossario per una mi
 .. [16]
    *Cfr*. Il modello di interoperabilità del Piano Triennale:
    https://pianotriennale-ict.italia.it/interoperabilita.
-
-.. discourse::
-   :topic_identifier: 748

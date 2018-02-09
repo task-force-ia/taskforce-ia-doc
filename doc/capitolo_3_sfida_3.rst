@@ -121,6 +121,9 @@ competitività e attrattività, dovrà dotarsi di un piano che consenta di
 ampliare le competenze dei dipendenti pubblici e innovare i servizi
 digitali.
 
+.. discourse::
+   :topic_identifier: 753
+
 .. [1]
    Hila Mehr, *Artificial Intelligence for Citizen Services and
    Government*, HARVARD Kennedy School - ASH Center for Democratic
@@ -166,6 +169,3 @@ digitali.
 
    (*Cfr*.
    `http://www.sviluppoeconomico.gov.it/index.php/it/industria40 <http://www.sviluppoeconomico.gov.it/index.php/it/industria40>`__).
-
-.. discourse::
-   :topic_identifier: 753

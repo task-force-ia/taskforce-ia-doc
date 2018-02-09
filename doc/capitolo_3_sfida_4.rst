@@ -88,6 +88,9 @@ ulteriore tema per la PA: fare in modo che chiunque voglia sviluppare
 soluzioni di Intelligenza Artificiale utili al cittadino possa avere un
 accesso paritario e non discriminatorio ai dati necessari [6]_.
 
+.. discourse::
+   :topic_identifier: 754
+
 .. [1]
    Definizione di *Linked Open Data* *Cfr*.
    `https://www.w3.org/egov/wiki/Linked_Open_Data <https://www.w3.org/egov/wiki/Linked_Open_Data>`__.
@@ -126,6 +129,3 @@ accesso paritario e non discriminatorio ai dati necessari [6]_.
    informatico, nell'ambito della sanità britannica, con problemi
    sollevati in merito alla trasparenza e al trattamento dei dati
    sensibili.
-
-.. discourse::
-   :topic_identifier: 754
