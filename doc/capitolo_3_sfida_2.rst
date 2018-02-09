@@ -137,3 +137,6 @@ qui possiamo menzionare:
 .. [4]
    Peter Norvig, S.J. Russel, 2003 - “*Artificial Intelligence: a
    modern approach*” - Prentice Hall Series in Artificial Intelligence
+
+.. discourse::
+   :topic_identifier: 752

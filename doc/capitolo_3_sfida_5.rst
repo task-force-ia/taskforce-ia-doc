@@ -98,3 +98,6 @@ la legittimità dell'attività dell'amministrazione.
    consentire di verificare che abbia agito correttamente e nel rispetto
    delle leggi applicabili (*Cfr*. sentenza TAR Lazio-Roma, Sez.
    III-bis, n. 3769/2017).
+
+.. discourse::
+   :topic_identifier: 755

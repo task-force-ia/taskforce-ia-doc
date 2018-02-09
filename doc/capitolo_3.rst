@@ -13,3 +13,6 @@ Capitolo 3 - Le sfide dell'IA al servizio del cittadino
    capitolo_3_sfida_7
    capitolo_3_sfida_8
    capitolo_3_sfida_9
+
+.. discourse::
+   :topic_identifier: 749

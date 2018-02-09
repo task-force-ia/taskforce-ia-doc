@@ -177,3 +177,6 @@ per la diffusione del PCP (*pre commercial procurement*).
 .. [6]
    Per informazioni su PCP e gare nazionali:
    `http://www.agid.gov.it/agenda-digitale/innovazione-del-mercato <http://www.agid.gov.it/agenda-digitale/innovazione-del-mercato>`__.
+
+.. discourse::
+   :topic_identifier: 756

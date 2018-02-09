@@ -126,3 +126,6 @@ accesso paritario e non discriminatorio ai dati necessari [6]_.
    informatico, nell'ambito della sanità britannica, con problemi
    sollevati in merito alla trasparenza e al trattamento dei dati
    sensibili.
+
+.. discourse::
+   :topic_identifier: 754

@@ -203,3 +203,6 @@ diritti degli individui e della collettività [10]_.
    ma aperte anche agli stakeholder, al fine di capire quali sono i
    codici e le carte etiche da applicare alle varie sfere della vita
    civile.
+
+.. discourse::
+   :topic_identifier: 751

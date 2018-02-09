@@ -212,3 +212,6 @@ rapporto tra Stato e cittadini.
 .. [11]
    Il sito ufficiale della Task force IA
    `https://ia.italia.it <https://ia.italia.it/>`__.
+
+.. discourse::
+   :topic_identifier: 747

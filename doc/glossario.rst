@@ -287,3 +287,6 @@ Web Analytics
 La misurazione, la raccolta, l’analisi e la rilevazione periodica dei dati web
 finalizzata alla migliore comprensione dell’utilizzo dei contenuti online da
 parte dell’utenza, in funzione della loro ottimizzazione.
+
+.. discourse::
+   :topic_identifier: 760

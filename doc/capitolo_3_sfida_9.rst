@@ -137,3 +137,6 @@ ricercatori, umanisti, ingegneri e manager in ambito di IA.
    università del mondo come MIT, Stanford, Carnegie Mellon, Royal
    College of Arts, Cambridge e le tante università Cinesi e Indiane che
    hanno già approntato percorsi formativi e di ricerca dedicati.
+
+.. discourse::
+   :topic_identifier: 759

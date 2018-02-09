@@ -199,3 +199,6 @@ esistenti nella nostra società.
 .. [6]
    *Cfr*. AINOW 2017 Report, p. 2 “*Expand AI bias research and
    mitigation strategies beyond a narrowly technical approach*”.
+
+.. discourse::
+   :topic_identifier: 757

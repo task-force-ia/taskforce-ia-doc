@@ -338,3 +338,6 @@ Qui saranno inserite schede di termini tecnici estratti dal glossario per una mi
 .. [16]
    *Cfr*. Il modello di interoperabilità del Piano Triennale:
    https://pianotriennale-ict.italia.it/interoperabilita.
+
+.. discourse::
+   :topic_identifier: 748

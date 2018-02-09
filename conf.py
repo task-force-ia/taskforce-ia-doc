@@ -12,6 +12,7 @@ settings_doc_version = "draft"
 settings_doc_release = "draft"
 settings_basename = 'librobiancoIA'
 settings_file_name = 'librobiancoIA'
+settings_discourse_url = 'https://ia.italia.it/community/'
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
