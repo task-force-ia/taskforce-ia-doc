@@ -60,6 +60,10 @@ footer {
   }
 }
 
+#discourse-comments {
+  margin: 4em 0;
+}
+
 .wy-side-nav-search {
   background-color: #004080;
 }
