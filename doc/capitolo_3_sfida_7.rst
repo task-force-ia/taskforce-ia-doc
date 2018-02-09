@@ -132,7 +132,7 @@ esistenti nella nostra società.
 |                                                                       |
 | Alcuni casi di *bias* che hanno avuto risalto recentemente:           |
 |                                                                       |
-| Un caso di **bias\discriminazione inconscia** è per esempio la        |
+| Un caso di **bias - discriminazione inconscia** è per esempio la      |
 | percentuale di personale maschile che sviluppa servizi di IA rispetto |
 | alla percentuale femminile (*Cfr*. `Global Gender Gap Report          |
 | 2017 <https://assets.weforum.org/editor/AYpJgsnL2_I9pUhBQ7HII-erCJSEZ |
@@ -143,12 +143,12 @@ esistenti nella nostra società.
 | statunitensi <https://www.propublica.org/article/machine-bias-risk-as |
 | sessments-in-criminal-sentencing>`__                                  |
 | (Software utilizzato negli Stati Uniti con l’obiettivo di prevedere   |
-| quali individui più di altri rischiano di essere “futuri criminali” - |
+| quali individui più di altri rischiano di essere “futuri criminali”)  |
 | ha messo in evidenza bias/pregiudizi nei confronti di individui di    |
-| colore).                                                              |
+| colore.                                                               |
 |                                                                       |
-| L’utilizzo estensivo di tecniche di **NLP** sta rapidamente mostrando |
-| `quanto i vocabolari delle lingue più                                 |
+| Infine, l’utilizzo estensivo di tecniche di **NLP** sta rapidamente   |
+| `mostrando quanto i vocabolari delle lingue più                       |
 | parlate <https://www.technologyreview.com/s/602025/how-vector-space-m |
 | athematics-reveals-the-hidden-sexism-in-language/>`__,                |
 | siano fortemente affetti da *bias* di genere.                         |
