@@ -91,6 +91,8 @@ accesso paritario e non discriminatorio ai dati necessari [6]_.
 .. discourse::
    :topic_identifier: 754
 
+.. rubric:: Note
+
 .. [1]
    Definizione di *Linked Open Data* *Cfr*.
    `https://www.w3.org/egov/wiki/Linked_Open_Data <https://www.w3.org/egov/wiki/Linked_Open_Data>`__.

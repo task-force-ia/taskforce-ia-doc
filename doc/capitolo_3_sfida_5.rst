@@ -82,6 +82,8 @@ la legittimità dell'attività dell'amministrazione.
 .. discourse::
    :topic_identifier: 755
 
+.. rubric:: Note
+
 .. [1]
    Proprio a tal proposito il `Codice di Amministrazione
    Digitale <http://cad.readthedocs.io>`__ (CAD) ha sancito il diritto

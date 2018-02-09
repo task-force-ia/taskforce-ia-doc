@@ -138,6 +138,8 @@ rapporto tra Stato e cittadini.
 
 .. discourse::
    :topic_identifier: 747
+   
+.. rubric:: Note
 
 .. [1]
    Il Digital Economy and Society Index (DESI) è l’indice elaborato

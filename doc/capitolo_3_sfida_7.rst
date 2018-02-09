@@ -157,6 +157,8 @@ esistenti nella nostra società.
 .. discourse::
    :topic_identifier: 757
 
+.. rubric:: Note
+
 .. [1]
    Ioannis Panagiotopoulos, Aikaterini Kalou, Christos Pierrakeas,
    Achilles Kameas; An Ontology-Based Model for Student representation

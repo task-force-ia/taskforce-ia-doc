@@ -137,6 +137,8 @@ diritti degli individui e della collettività [10]_.
 .. discourse::
    :topic_identifier: 751
 
+.. rubric:: Note
+
 .. [1]
    *Cfr*. Umberto Eco, *Apocalittici e integrati*, ed. Bompiani, 1964,
    Bolter, J.D, Grusin, R. 1999, Remediation. Understanding News Media,

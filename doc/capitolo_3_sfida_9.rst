@@ -108,6 +108,8 @@ ricercatori, umanisti, ingegneri e manager in ambito di IA.
 .. discourse::
    :topic_identifier: 759
 
+.. rubric:: Note
+
 .. [1]
    Robert Merton fu il primo ad adottare questa definizione nel 1948:
    “una supposizione o profezia che per il solo fatto di essere stata

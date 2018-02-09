@@ -122,6 +122,8 @@ qui possiamo menzionare:
 .. discourse::
    :topic_identifier: 752
    
+.. rubric:: Note
+
 .. [1]
    Le ricerche sulla cosiddetta Full intelligence e sulla Strong AI, sia
    sul lato della Neuro Evolution (NE), sia su quello della Brain

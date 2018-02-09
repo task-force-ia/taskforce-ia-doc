@@ -143,6 +143,8 @@ per la diffusione del PCP (*pre commercial procurement*).
 .. discourse::
    :topic_identifier: 756
 
+.. rubric:: Note
+
 .. [1]
    Hila Mehr, *Artificial Intelligence for Citizen Services and
    Government*, HARVARD Kennedy School - ASH Center for Democratic

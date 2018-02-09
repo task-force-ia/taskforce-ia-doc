@@ -124,6 +124,8 @@ digitali.
 .. discourse::
    :topic_identifier: 753
 
+.. rubric:: Note
+
 .. [1]
    Hila Mehr, *Artificial Intelligence for Citizen Services and
    Government*, HARVARD Kennedy School - ASH Center for Democratic

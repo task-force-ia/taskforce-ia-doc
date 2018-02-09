@@ -217,6 +217,8 @@ Qui saranno inserite schede di termini tecnici estratti dal glossario per una mi
 
 .. discourse::
    :topic_identifier: 748
+   
+.. rubric:: Note
 
 .. [1]
    *Artificial Intelligence and life in 2030*, One hundred year study on

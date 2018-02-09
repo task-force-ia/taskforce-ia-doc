@@ -77,6 +77,8 @@ riescano ad influenzare concretamente la nostra vita.
 .. discourse::
    :topic_identifier: 758
 
+.. rubric:: Note
+
 .. [1]
    Justin Trudeau, Premier canadese, nel suo discorso al World Economic
    Forum Annual Meeting 2018
