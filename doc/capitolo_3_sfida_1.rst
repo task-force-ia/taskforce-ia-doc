@@ -62,7 +62,7 @@ pubblico e nell’analisi scientifica:
    ricostruzione della relazione causa–effetto necessaria per spiegare
    certi eventi e, soprattutto, per prevederli;
 
--  **responsabilità (*accountability* e *liability)***: gli esempi
+-  **responsabilità (accountability e liability)**: gli esempi
    appena riportati mettono in evidenza il forte impatto che ha
    l’Intelligenza Artificiale sull'attività decisionale dei soggetti
    pubblici. Sia nel caso che questa agisca come assistente degli esseri
