@@ -41,21 +41,17 @@ Puoi contribuire alla consultazione con integrazioni e suggerimenti
 inserendo un commento nella sezione “Mostra commenti” presente alla fine
 di ogni capitolo, di ogni sfida del libro bianco.
 
-Per contribuire con delle Raccomandazioni, compila il form
+Per contribuire alle Raccomandazioni, compila il form
 “`Raccomandazioni IA <https://goo.gl/forms/UhOXTDZXluGP8T6J2>`__”
 
 **Esiti della consultazione**
 
 I risultati della consultazione pubblica on line saranno discussi dalla
-Task force sull’Intelligenza Artificiale dell’Agenzia per l'Italia
-Digitale che valuterà le integrazioni da apportare per la pubblicazione
-del testo definitivo del libro bianco.
+Task force sull'Intelligenza Artificiale di AgID che le valuterà ed eventualmente integrerà nel testo definitivo del libro bianco.
 
 **Destinatari**
 
-Le amministrazioni, gli addetti ai lavori, le realtà che studiano o
-lavorano con l’IA e chiunque intenda dare il proprio contributo sono
-invitati a partecipare alla presente consultazione.
+Sono invitati a partecipare alla consultazione: le pubbliche amministrazioni, i centri di ricerca, gli addetti ai lavori, le realtà che studiano o lavorano con l'IA e chiunque intenda dare il proprio contributo a partecipare alla presente consultazione.
 
 *L’Associazione AI*IA ha inviato un contributo al libro bianco che sarà
 integrato nel corso della consultazione.*
