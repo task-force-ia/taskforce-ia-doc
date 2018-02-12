@@ -14,8 +14,7 @@ Guida alla consultazione
 
 1. **È un testo in progress:** abbiamo pubblicato una prima bozza che
    definisce un perimetro all’interno del quale chiediamo a chiunque
-   sia interessato di esprimersi, avendo ben chiaro l’obiettivo del
-   libro bianco. Il testo definitivo, corredato di schede di
+   sia interessato di esprimersi, avendo ben chiaro l’obiettivo del libro bianco. Il testo definitivo, corredato di schede di
    approfondimento tematiche verrà pubblicato e presentato alla fine
    della consultazione.
 
