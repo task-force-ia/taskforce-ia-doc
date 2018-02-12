@@ -29,7 +29,7 @@ alla versione definitiva del testo, di leggere con molta attenzione cosa
    definisce un perimetro all’interno del quale chiediamo a chiunque
    sia interessato di esprimersi, avendo ben chiaro l’obiettivo del
    libro bianco. Il testo definitivo, corredato di *schede di
-   approfondimento tematico* verrà presentato e pubblicato alla fine
+   approfondimento tematiche* verrà presentato e pubblicato alla fine
    della consultazione e diventerà un punto di partenza che
    permetterà all’Italia di confrontarsi sulle tematiche trattate
    anche sui tavoli internazionali.
