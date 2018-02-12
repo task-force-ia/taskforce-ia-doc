@@ -24,5 +24,3 @@ alla versione definitiva del testo, di leggere con molta attenzione cosa
    doc/capitolo_2
    doc/capitolo_3
    doc/raccomandazioni
-   doc/glossario
-
