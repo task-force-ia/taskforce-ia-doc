@@ -289,4 +289,4 @@ finalizzata alla migliore comprensione dell’utilizzo dei contenuti online da
 parte dell’utenza, in funzione della loro ottimizzazione.
 
 .. discourse::
-   :topic_identifier: 760
+   :topic_identifier: 766
