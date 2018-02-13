@@ -3,18 +3,16 @@
 
 import sys
 import os
-import recommonmark
-from recommonmark.parser import CommonMarkParser
-from recommonmark.transform import AutoStructify
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = 'White paper IA'
+settings_project_name = 'Libro Bianco IA'
 settings_copyright_copyleft = 'CC0 1.0 Universal - Agenzia per l\'Italia Digitale'
 settings_editor_name = 'AgID - Agenzia per l\'Italia Digitale'
 settings_doc_version = "draft"
 settings_doc_release = "draft"
-settings_basename = 'WhitepaperIA'
-settings_file_name = 'Whitepaper-IA'
+settings_basename = 'librobiancoIA'
+settings_file_name = 'librobiancoIA'
+discourse_url = 'https://ia.italia.it/community/'
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
@@ -26,23 +24,14 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.coverage',
     'sphinx.ext.ifconfig',
+    'sphinxcontrib.discourse'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
-source_parsers = {
-   '.md': CommonMarkParser,
-}
-
-def setup(app):
-    app.add_config_value('recommonmark_config', {
-        'enable_eval_rst': True,
-    }, True)
-    app.add_transform(recommonmark.transform.AutoStructify)
-
 # The suffix of source filenames.
-source_suffix = ['.rst', '.md']
+source_suffix = ['.rst']
 
 # The encoding of source files.
 #source_encoding = 'utf-8-sig'
