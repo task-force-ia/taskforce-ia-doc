@@ -1,14 +1,14 @@
 Guida alla consultazione
 ========================
 
-**Cosa non è e cosa non vuole essere il libro bianco:**
+**Cosa non è e cosa non vuole essere il Libro Bianco IA:**
 
-1. **Non è il testo definitivo**
+1. **Non è il testo definitivo.**
 
 2. **Non è un testo scientifico né ha l’ambizione di presentare,
-   analizzare e affrontare le implicazioni dell’IA a 360 gradi**
+   analizzare e affrontare le implicazioni dell’IA a 360 gradi.**
 
-3. **Non nasce come testo di policy**
+3. **Non nasce come testo di policy.**
 
 **Cosa è e cosa diventerà:**
 
@@ -33,7 +33,7 @@ Guida alla consultazione
 
 **Istruzioni per la consultazione pubblica**
 
-Il libro bianco è in consultazione fino all’**11 marzo 2018**.
+Il Libro Bianco IA è in consultazione fino al **12 marzo 2018**.
 
 **Come partecipare**
 
@@ -53,5 +53,5 @@ Task force sull'Intelligenza Artificiale di AgID che le valuterà ed eventualmen
 
 Sono invitati a partecipare alla consultazione: le pubbliche amministrazioni, i centri di ricerca, gli addetti ai lavori, le realtà che studiano o lavorano con l'IA e chiunque intenda dare il proprio contributo a partecipare alla presente consultazione.
 
-*L’Associazione AI*IA ha inviato un contributo al libro bianco che sarà
+*L’Associazione AI*IA ha inviato un contributo al Libro Bianco IA che sarà
 integrato nel corso della consultazione.*
