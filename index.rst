@@ -14,7 +14,7 @@ all’Intelligenza Artificiale.
 Rappresentando un punto di partenza più che un punto di arrivo,
 chiediamo a tutti coloro che si apprestano a commentare e contribuire
 alla versione definitiva del testo, di leggere con molta attenzione cosa
-è e cosa non è questo libro bianco nella sezione “`guida alla consultazione <http://glossario-test.readthedocs.io/it/latest/doc/introduzione.html>`__”.
+è e cosa non è questo libro bianco nella sezione “`guida alla consultazione <doc/introduzione.html>`__”.
 
 .. toctree::
    :maxdepth: 2
