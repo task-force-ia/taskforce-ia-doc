@@ -18,6 +18,7 @@ jobs:
             source .venv/bin/activate
             pip install -q sphinx
             pip install -q recommonmark
+            pip install -r requirements.txt
 
       # sphinx build
       - run:
