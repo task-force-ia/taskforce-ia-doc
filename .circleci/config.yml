@@ -3,7 +3,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/python:3.6.1
+      - image: circleci/python:2.7.14
 
     working_directory: ~/latest
 
@@ -14,8 +14,7 @@ jobs:
       - run:
           name: install sphinx
           command: |
-            pip install virtualenv
-            virtualenv .venv
+            python3 -m venv .venv
             source .venv/bin/activate
             pip install -q sphinx
             pip install -q recommonmark
