@@ -137,7 +137,7 @@ rapporto tra Stato e cittadini.
 (SPID, PagoPa) - a cura di AgID**
 
 .. discourse::
-   :topic_identifier: 747
+   :topic_identifier: 766
    
 .. rubric:: Note
 
