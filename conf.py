@@ -5,7 +5,7 @@ import sys
 import os
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = 'Libro bianco IA'
+settings_project_name = 'Libro Bianco IA'
 settings_copyright_copyleft = 'CC0 1.0 Universal - Agenzia per l\'Italia Digitale'
 settings_editor_name = 'AgID - Agenzia per l\'Italia Digitale'
 settings_doc_version = "draft"
