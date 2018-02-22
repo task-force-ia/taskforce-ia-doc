@@ -212,8 +212,8 @@ l’implementazione delle pratiche di *e-procurement*. Tra gli ambiti che
 nel prossimo decennio trarranno beneficio dalla rivoluzione IA ci sarà,
 infatti, proprio quello degli acquisti pubblici.
 
-Qui saranno inserite schede di termini tecnici estratti dal glossario per una migliore lettura del resto del documento.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Qui saranno inserite schede di termini tecnici estratti dal glossario per
+una migliore lettura del resto del documento.**
 
 .. discourse::
    :topic_identifier: 748
