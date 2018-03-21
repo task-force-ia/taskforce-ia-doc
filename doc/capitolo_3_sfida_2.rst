@@ -25,6 +25,21 @@ metodologica, nella modellazione, realizzazione e sperimentazione di
 sistemi di Intelligenza Artificiale per vari domini d’interesse della
 PA.
 
+Di sicuro interesse sono le tecnologie linguistiche (Natural Language
+Processing - NLP) che stanno alla base di un gran numero di applicazioni
+che rientrano nell'ambito dell'Intelligenza Artificiale. Il dispiego di
+queste tecnologie, basate oggi in larga misura su software Open Source,
+richiede la disponibilità di specifici dataset testuali (es. corpora
+annotati), lessicografici e semantici (es. wordnet), nonché la
+diffusione di competenze specialistiche necessarie per gestire i
+processi di addestramento e adattamento ai diversi ambiti applicativi
+(es. la sanità, la giustizia, la finanza). La carenza o
+l'indisponibilità di adeguate risorse per la lingua italiana, unita ad
+un deficit di competenze nell'uso delle tecnologie di NLP, potrebbe
+causare sia una perdita di competitività rispetto ad altre nazioni, sia
+una dipendenza da piattaforme e soluzioni fornite da un ristretto numero
+di soggetti che operano in condizioni di monopolio.
+
 Le caratteristiche distintive della “sfida tecnologica” possono pertanto
 essere individuate da due parole chiave: “personalizzazione” e
 “adattività”.
@@ -45,12 +60,15 @@ qui possiamo menzionare:
 
 -  *Sistema sanitario*: strumenti diagnostici in grado di assistere
    nelle analisi di referti; integrazione di fonti diverse e fusione di
-   dati; strumenti predittivi per valutare potenziali rischi di
-   evoluzione delle malattie o per valutare l’efficacia delle terapie;
-   strumenti di assistenza ai pazienti, in grado di seguirli durante un
-   trattamento; medicina di precisione, per l'individuazione di cure
-   personalizzate; migliore organizzazione logistica delle attività
-   delle strutture sanitarie.
+   dati; analisi epidemiologiche per identificare precocemente rischi di
+   salute pubblica; servizi di traduzione istantanea per facilitare le
+   visite mediche ospedaliere e territoriali a stranieri; strumenti
+   predittivi per valutare potenziali rischi di evoluzione delle
+   malattie o per valutare l’efficacia delle terapie; strumenti di
+   assistenza ai pazienti, in grado di seguirli durante un trattamento;
+   medicina di precisione, per l'individuazione di cure personalizzate;
+   migliore organizzazione logistica delle attività delle strutture
+   sanitarie.
 
 -  *Rapporti col cittadino*: nella semplificazione delle procedure e
    allo scopo di ottenere una comunicazione bidirezionale tra PA e
@@ -86,8 +104,19 @@ qui possiamo menzionare:
    trasporti pubblici, ma anche soluzioni di trasporto a guida autonoma;
    monitoraggio in tempo reale dei dati provenienti dalla sensoristica.
 
--  *Sistema tributario*: applicazione di tecniche di IA a casi di
-   sospetta elusione ed evasione.
+-  *Sistema tributario*: applicazione di tecniche di IA per identificare
+   casi di potenziale elusione ed evasione fiscale attraverso l’analisi
+   e l’incrocio di dati provenienti dai diversi settori dello Stato;
+  
+-  *Monitoraggio ambientale*: l'uso di algoritmi di *machine learning*
+   su dati di sensori wireless 5G (p.es. videocamere, rilevatori di
+   radioattività, sostanze chimiche, temperatura, luminosità, umidità
+   etc.) potrebbe permettere di monitorare e intercettare eventi critici
+   del territorio (es. una ricerca automatica di eventi su dati di
+   videosorveglianza combinata con analisi da rilevamento di sostanze
+   chimiche per individuare eco-reati come sversamento di sostanze
+   nocive; analogamente possibile definire indicatori per incendi,
+   alluvioni, crolli, etc.).
 
 +-----------------------------------------------------------------------+
 | Box                                                                   |
