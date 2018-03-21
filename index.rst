@@ -20,7 +20,11 @@ alla versione definitiva del testo, di leggere con molta attenzione cosa
    :maxdepth: 2
 
    doc/introduzione
+   doc/prefazione
+   doc/una_nuova_cultura
+   doc/sintesi
    doc/capitolo_1
    doc/capitolo_2
    doc/capitolo_3
    doc/raccomandazioni
+   doc/prossimi_passi
