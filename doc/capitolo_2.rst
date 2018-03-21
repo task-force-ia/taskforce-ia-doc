@@ -159,7 +159,7 @@ di opzioni che includono il miglioramento qualitativo dei servizi e la
 riduzione dei costi per il loro esercizio.
 
 Le potenzialità dell’IA nella Pubblica amministrazione
-======================================================
+------------------------------------------------------
 
 Le potenzialità dell’Intelligenza Artificiale per la Pubblica
 amministrazione sono molteplici. Tuttavia la comunità scientifica e
