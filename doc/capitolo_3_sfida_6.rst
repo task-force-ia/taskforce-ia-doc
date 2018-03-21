@@ -15,6 +15,17 @@ appieno i vantaggi e le potenzialità, è necessario affrontare anche
 aspetti che riguardano la *governance*, l’accompagnamento all’utilizzo
 delle nuove tecnologie e la capacità di gestione dei dati.
 
+Aspetto da non sottovalutare nel nostro Paese è quello legato
+all’esistenza di un corposo ruolo svolto di “intermediari” nel rapporto
+tra cittadini/imprese e Pubblica amministrazione, unito ad una cultura
+della “delega” che spesso introduce una vera e propria barriera nel
+rapporto tra utenti e istituzioni.
+
+In tal senso sarà auspicabile un fortissimo investimento nel cambiamento
+culturale necessario a creare un substrato su cui poter riposizionare,
+in chiave di semplificazione ed utilizzo del digitale, il nuovo rapporto
+tra cittadini/imprese e Pubblica amministrazione.
+
 Il processo di trasformazione a cui stiamo assistendo, comporta,
 inoltre, la creazione di una cultura interna alla Pubblica
 amministrazione che includa attività di *capacity building*, sia
@@ -52,10 +63,10 @@ migliorano le relazioni con i cittadini e aumenta il livello di fiducia
 verso le istituzioni.
 
 L’introduzione dell’IA nella vita delle persone richiede il disegno di
-processi che favoriscano l’accettazione delle tecnologie da parte
-dell’utente, non solo attraverso l’utilizzo di sperimentazioni ma anche
-attraverso meccanismi di collaborazione che permettano al cittadino di
-partecipare al design di piattaforme IA. Grazie all’approccio di
+processi che favoriscano la comprensione e l’accettazione delle tecnologie
+da parte dell’utente, non solo attraverso l’utilizzo di sperimentazioni ma 
+anche attraverso meccanismi di collaborazione che permettano al cittadino 
+di partecipare al design di piattaforme IA. Grazie all’approccio di
 co-creazione, come accade nel *design thinking*, gli utenti percepiscono
 la tecnologia come propria e manifestano una maggiore propensione ad
 utilizzarla. Inoltre, laddove si riscontrino problematiche o criticità
@@ -96,7 +107,7 @@ nazionale. [4]_
 
 A questo proposito, i sistemi di rappresentazione della conoscenza e
 auto-apprendimento possono costituire un valido aiuto per aumentare
-l*’accountability* dei modelli. L’adozione di modalità collaborative
+l'*accountability* dei modelli. L’adozione di modalità collaborative
 può ulteriormente assicurare che i modelli adottati siano compatibili
 con la PA e si mantengano in coerenza con il quadro normativo.
 
@@ -112,7 +123,7 @@ significa necessariamente sviluppare soluzioni nuove partendo da zero.
 Al contrario, è possibile guardare a quanto già adottato da altri
 governi, oppure attingere alle tecnologie già affermate sul mercato.
 
-Ulteriore ambito di collaborazione tra settore pubblico e privato è
+Ambito di collaborazione tra settore pubblico e privato è
 quello del procurement. In questo senso AgID, ad esempio, ha avviato in
 questi anni percorsi di confronto e sperimentazione dei nuovi scenari
 per la diffusione del PCP (*pre commercial procurement*).
@@ -145,40 +156,30 @@ per la diffusione del PCP (*pre commercial procurement*).
 
 .. rubric:: Note
 
-.. [1]
-   Hila Mehr, *Artificial Intelligence for Citizen Services and
-   Government*, HARVARD Kennedy School - ASH Center for Democratic
-   Governance and Innovation (2017)
 
-   *Cfr*.
-   https://ash.harvard.edu/files/ash/files/artificial_intelligence_for_citizen_services.pdf
-   (consultato a febbraio 2018).
+.. [1]
+   Hila Mehr, “\ *Artificial Intelligence for Citizen Services and
+   Government*\ ”, HARVARD Kennedy School - ASH Center for Democratic
+   Governance and Innovation, 2017.
 
 .. [2]
-   *The role of design in collaborative AI*, Medium, 4,11, 2017
-   `https://medium.com/@newcortex.ai/the-role-of-design-in-collaborative-ai-ca18c1e69d0b <https://medium.com/@newcortex.ai/the-role-of-design-in-collaborative-ai-ca18c1e69d0b>`__
-   (consultato a febbraio 2017).
+   Medium, “\ *The role of design in collaborative AI*\ ”, 4- 11- 2017.
 
 .. [3]
-   *Human Design for Artificial Intelligence and Agents*, 19, 10, 2017
-
-   *Cfr*.
-   `https://medium.com/@Punchcut/human-design-for-artificial-intelligence-and-agents-a5b5a606e1b <https://medium.com/@Punchcut/human-design-for-artificial-intelligence-and-agents-a5b5a606e1b>`__
-   (consultato a febbraio 2017).
+   Medium, “\ *Human Design for Artificial Intelligence and Agents*\ ”,
+   19- 10- 2017.
 
 .. [4]
-   Capitolo 4 “Infrastrutture immateriali”, Piano Triennale per
-   l’informatica nella Pubblica Amministrazione 2017-2019 - *Cfr*.
-   `http://pianotriennale-ict.readthedocs.io/it/latest/doc/04_infrastrutture-immateriali.html <http://pianotriennale-ict.readthedocs.io/it/latest/doc/04_infrastrutture-immateriali.html>`__
-   (Consultato a febbraio 2018).
+   *Cfr*.
+   http://pianotriennale-ict.readthedocs.io/it/latest/doc/04_infrastrutture-immateriali.html.
 
 .. [5]
    L’Italia è prima nella
    `graduatoria <https://ec.europa.eu/digital-single-market/news/innovation-procurement-initiatives-around-europe>`__
-   dei Paesi UE per capacità di attuazione di appalti pre-commerciali e
-   gli appalti del programma PCP sono tra i più partecipati nel contesto
-   comunitario.
+   dei Paesi UE per capacità di attuazione di appalti pre-commerciali.
 
 .. [6]
-   Per informazioni su PCP e gare nazionali:
-   `http://www.agid.gov.it/agenda-digitale/innovazione-del-mercato <http://www.agid.gov.it/agenda-digitale/innovazione-del-mercato>`__.
+   L’Italia è prima nella
+   `graduatoria <https://ec.europa.eu/digital-single-market/news/innovation-procurement-initiatives-around-europe>`__
+   dei Paesi UE per capacità di attuazione di appalti pre-commerciali.
+
