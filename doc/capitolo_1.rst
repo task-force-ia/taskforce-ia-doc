@@ -47,23 +47,23 @@ campo della trasformazione digitale nel settore pubblico per capire la
 situazione attuale e immaginare come l’IA può creare sinergie con il
 processo di digitalizzazione del Paese.
 
-+-----------------------------------------------------------------------+
-| Box                                                                   |
-|                                                                       |
-|Stando ai dati riportati nell’ultimo Rapporto dell’Organizzazione per 	|
-|la Cooperazione e lo Sviluppo Economico (OCSE) sulla Digital		      |
-|Transformation [1]_, il nostro Paese si colloca al 5° posto mondiale 	|
-|per quanto riguarda la produzione di documenti scientifici maggiormente|
-|citati sul *machine learning* dopo gli Stati Uniti, la Cina, l’India e	|
-|Gran Bretagna (sezione scienza, innovazione e rivoluzione digitale).	|
-|Sempre nello stesso Rapporto (sezione crescita, lavoro e trasformazione|
-|digitale), i dati 2015 sulla diffusione dei robot industriali mostrano	|
-|che l’Italia è tra le economie leader in Europa (dietro Germania,	   |
-|Repubblica Ceca, Repubblica Slovacca e Slovenia) in termini di utilizzo|
-|di robot (es. numero di robot rispetto al valore aggiunto nella	      |
-|manifattura), pur mostrando indici pari a ⅓ rispetto a quelli del 	   |
-|leader mondiale (la Corea del Sud).                     		         |
-+-----------------------------------------------------------------------+
++------------------------------------------------------------------------+
+| Box                                                                    |
+|                                                                        |
+|Stando ai dati riportati nell’ultimo Rapporto dell’Organizzazione per   |
+|la Cooperazione e lo Sviluppo Economico (OCSE) sulla Digital            |
+|Transformation [1]_, il nostro Paese si colloca al 5° posto mondiale    |
+|per quanto riguarda la produzione di documenti scientifici maggiormente |
+|citati sul *machine learning* dopo gli Stati Uniti, la Cina, l’India e  |
+|Gran Bretagna (sezione scienza, innovazione e rivoluzione digitale).    |
+|Sempre nello stesso Rapporto (sezione crescita, lavoro e trasformazione |
+|digitale), i dati 2015 sulla diffusione dei robot industriali mostrano  |
+|che l’Italia è tra le economie leader in Europa (dietro Germania,       |
+|Repubblica Ceca, Repubblica Slovacca e Slovenia) in termini di utilizzo |
+|di robot (es. numero di robot rispetto al valore aggiunto nella         |
+|manifattura), pur mostrando indici pari a ⅓ rispetto a quelli del       |
+|leader mondiale (la Corea del Sud).                                     |
++------------------------------------------------------------------------+
 
 Come evidenzia il *Digital Economy and Society Index - DESI
 2017* [1]_, l’Italia cresce, ma si riscontra ancora un divario tra
