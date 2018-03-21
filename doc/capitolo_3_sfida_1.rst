@@ -42,6 +42,36 @@ l’innovazione e tenendo conto degli effetti che questa ha già avuto e
 continuerà ad avere nello sviluppo della società, rispettando e
 salvaguardando i valori fondamentali universalmente riconosciuti.
 
+L’utilizzo di IA basata su algoritmi di analisi dei dati all’interno di
+processi decisionali legati a questioni sociali, sanitarie, giudiziarie
+(come ad esempio la valutazione del rischio) impone pertanto una
+riflessione approfondita in termini etici e, più in senso lato, di
+governance.
+
+Gli algoritmi per l’analisi dei dati implicano costi elevati che
+abbracciano tutto il ciclo evolutivo del loro funzionamento:
+dall’implementazione al mantenimento evolutivo, fino alla verifica dei
+risultati e alla formazione degli utenti che li devono utilizzare in
+modo responsabile. Parlare di maggiore efficienza o di tagli alle tasse
+grazie all’utilizzo delle tecnologie IA nei servizi pubblici può essere
+un registro narrativo fuorviante in quanto un corretto sviluppo di tali
+strumenti implica elevati costi ed una grande attenzione agli aspetti
+etici legati al loro utilizzo.
+
+L’attenzione sullo sviluppo funzionale di tale tecnologia necessita
+delle risorse economiche e professionali adatte ad uno sviluppo etico e
+soprattutto in linea con i dati che tratta e le decisioni che indirizza.
+Altrimenti quello che verrà fuori dalle analisi contribuirà solo a
+finanziare il settore privato, con l'illusione di aiutare le persone.
+Oppure, peggio ancora, ad introdurre una distorsione o una fuga di
+responsabilità, rimbalzando di volta in volta la causa degli errori
+decisionali agli algoritmi invece che ai decisori.
+
+Capitalizzare sui benefici della tecnologia richiede da parte della PA
+un investimento serio e un profondo impegno per migliorare la qualità e
+l’efficienza dei servizi ed avere sistemi sicuri e atti a ridurre
+veramente le disuguaglianze.
+
 La Pubblica amministrazione è chiamata, quindi, ad affrontare questioni
 etiche numerose e complesse. Per comprenderne la portata è possibile
 analizzare quelli che rappresentano gli elementi centrali nel dibattito
@@ -132,7 +162,9 @@ arbitrarietà delle procedure), formale (uguale trattamento per individui
 o gruppi uguali) e sostanziale (rimozione effettiva degli ostacoli di
 natura economico-sociale), così come il soddisfacimento di alcuni
 bisogni di base universali tra cui il rispetto delle libertà e dei
-diritti degli individui e della collettività [10]_.
+diritti degli individui e della collettività [10]_. Questi e molti altri
+aspetti connessi all’esigenza di porre in ogni contesto l’IA al servizio
+delle persone sono approfonditi nelle successive sfide.
 
 .. discourse::
    :topic_identifier: 751
