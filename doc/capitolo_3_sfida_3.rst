@@ -35,14 +35,15 @@ al pieno utilizzo dei servizi digitali, e quello più avanzato della
 preparazione specialistica e transdisciplinare.
 
 Nel secondo ambito, quello dell’alfabetizzazione, è importante aiutare
-le persone a comprendere cosa sia l'Intelligenza Artificiale e quali
-benefici può concretamente apportare, per consentire loro di utilizzare
-al meglio i servizi offerti, infondendo nell’immaginario un approccio
-positivo e ottimistico ed evitando il rifiuto di ciò che è
-sconosciuto [4]_. Inoltre, poiché la relazione con l'IA avviene in buona
-parte per mezzo di interfacce naturali - come il parlato, il testo
-scritto e i gesti -, è necessario “alfabetizzare” il cittadino con
-l’obiettivo di ridurre il gap di accesso a tali tecnologie.
+le persone a comprendere cosa sia l’Intelligenza Artificiale, quali
+benefici può concretamente apportare e quali rischi comporta, per
+consentire loro di utilizzare al meglio i servizi offerti, infondendo
+nell’immaginario un approccio positivo e ottimistico ed evitando il
+rifiuto di ciò che è sconosciuto [4]_. Inoltre, poiché la relazione con
+l'IA avviene in buona parte per mezzo di interfacce naturali - come il
+parlato, il testo scritto e i gesti -, è necessario “alfabetizzare” il
+cittadino con l’obiettivo di ridurre il gap di accesso a tali
+tecnologie.
 
 Quest'ultimo punto, naturalmente, coinvolge *in primis* il sistema
 scolastico, che deve tener conto dei cambiamenti descritti al fine di
@@ -98,11 +99,12 @@ dipendenti dai fornitori.
 
 Nell’ottica di sviluppo delle competenze, dunque, non è possibile
 prescindere da meccanismi di formazione permanente e specialistica a
-tutti i livelli. Tale impostazione sposta il focus del dibattito non più
-sulla sostituzione della forza lavoro ma sul miglioramento delle
-competenze dei lavoratori e, di conseguenza, della qualità di servizi e
-soluzioni offerti da una forza lavoro adeguatamente formata sui temi
-dell’IA.
+tutti i livelli. È necessario integrare il dibattito relativo alla
+sostituzione della forza lavoro con un'analisi delle nuove esigenze di
+mercato e di come il miglioramento delle competenze dei lavoratori
+adeguatamente formati sui temi dell’IA possa impattare la qualità dei
+servizi e delle soluzioni offerte dal mercato e dalla Pubblica
+amministrazione.
 
 Da un punto di vista formativo, indipendentemente dal livello scolastico
 o professionale, l’integrazione dell’IA nei programmi di apprendimento
@@ -111,7 +113,11 @@ making* e favorendo la possibilità di dedicarsi ad attività più
 specialistiche o maggiormente creative.
 
 Uno degli obiettivi dell’Intelligenza Artificiale applicata ai sistemi
-cognitivi è proprio quello di aumentare le capacità umane.
+cognitivi è proprio quello di aumentare le capacità umane. È necessario
+dunque sviluppare una consapevolezza profonda rispetto alle implicazioni
+degli inevitabili errori di programmazione e calibrazione di tali
+sistemi, che nell’esaltare alcuni aspetti delle informazioni disponibili
+potrebbero inavvertitamente deformarne l’importanza o il significato.
 
 La Pubblica amministrazione, in quest’ottica, deve diventare “palestra
 di innovazione”: così come, grazie al Piano Industria 4.0 [6]_, le
@@ -119,7 +125,7 @@ imprese sanno di dover implementare mezzi e competenze per stare al
 passo con il mercato, anche la PA, se non vuole perdere in capacità,
 competitività e attrattività, dovrà dotarsi di un piano che consenta di
 ampliare le competenze dei dipendenti pubblici e innovare i servizi
-digitali.
+digitali [7]_.
 
 .. discourse::
    :topic_identifier: 753
@@ -127,18 +133,14 @@ digitali.
 .. rubric:: Note
 
 .. [1]
-   Hila Mehr, *Artificial Intelligence for Citizen Services and
-   Government*, HARVARD Kennedy School - ASH Center for Democratic
-   Governance and Innovation (2017)
+   Hila Mehr, “Artificial Intelligence for Citizen Services and
+   Government”, HARVARD Kennedy School - ASH Center for Democratic
+   Governance and Innovation, 2017.
 
 .. [2]
-   Carl Benedikt Frey, Michael Osborne, *The Future of Employment: how
-   susceptible are jobs to computerisation?*, The Oxford Martin
-   Programme on Technology and Employment (2013); Martin Ford, *Il
-   futuro senza lavoro. Accelerazione tecnologica e macchine
-   intelligenti. Come prepararsi alla rivoluzione economica in arrivo*,
-   Il Saggiatore (2017); Aaron Smith, Janna Anderson, *AI, Robotics, and
-   the Future of Jobs*, Pew Research Center 6 (2014).
+   Carl Benedikt Frey, Michael Osborne, “The Future of Employment: how
+   susceptible are jobs to computerisation?”, The Oxford Martin
+   Programme on Technology and Employment, 2013.
 
 .. [3]
    *Cfr*. Sfida 9 “L’essere umano”.
@@ -147,27 +149,14 @@ digitali.
    *Cfr*. Sfida 9 “L’essere umano”.
 
 .. [5]
-   Cade Metz, *Tech Giants are paying huge salaries for scarce AI
-   talent*, The New York Times, 22, 10, 2017.
-   https://www.nytimes.com/2017/10/22/technology/artificial-intelligence-experts-salaries.html.
+   Cade Metz, “Tech Giants are paying huge salaries for scarce AI
+   talent”, The New York Times, 22- 10- 2017.
 
 .. [6]
-   Introdotto la prima volta nel settembre 2016 dal Ministero dello
-   Sviluppo Economico, il Piano nazionale Industria 4.0 (ora `Impresa
-   4.0 <http://www.sviluppoeconomico.gov.it/index.php/it/per-i-media/notizie/2037096-piano-nazionale-impresa-4-0-i-risultati-del-2017-e-le-linee-guida-per-il-2018>`__)
-   è costituito da un insieme di misure organiche e complementari in
-   grado di favorire gli investimenti per l’innovazione e per la
-   competitività, configurandosi quale guida per tutte le aziende che
-   vogliono cogliere le opportunità legate alla quarta rivoluzione
-   industriale.
+   *Cfr*. http://www.sviluppoeconomico.gov.it/index.php/it/industria40.
 
-   Il Piano prevede misure concrete in base a tre principali linee
-   guida: (1) operare in una logica di neutralità tecnologica; (2)
-   intervenire con azioni orizzontali e non verticali o settoriali; (3)
-   agire su fattori abilitanti. Sono state potenziate e indirizzate in
-   una logica 4.0 tutte le misure che si sono rilevate efficaci e, per
-   rispondere pienamente alle esigenze emergenti, ne sono state previste
-   di nuove
-
-   (*Cfr*.
-   `http://www.sviluppoeconomico.gov.it/index.php/it/industria40 <http://www.sviluppoeconomico.gov.it/index.php/it/industria40>`__).
+.. [7]
+   In tale ottica sarà fondamentale concentrarsi non solo su
+   formazione/aggiornamento del personale ma anche sulla capacità di
+   attrarre e trattenere le risorse con competenze in grado di
+   supportare l’adozione di soluzioni di IA nel settore pubblico.
