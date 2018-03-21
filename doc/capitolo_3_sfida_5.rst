@@ -5,12 +5,13 @@ Quando si tratta di disciplinare l’attività della Pubblica
 amministrazione, uno dei problemi fondamentali è il bilanciamento tra
 gli interessi della collettività e quelli dell’individuo. Nell’ambito
 dell’Intelligenza Artificiale (IA) garantire questo equilibrio è
-particolarmente complesso. Le soluzioni di IA necessitano di enormi
-quantità di dati, spesso sensibili, per poter essere efficaci. Per
-questo motivo è necessario analizzare alcune delle principali questioni
-giuridiche che possono interessare l’IA. Tra queste: il principio di
-trasparenza degli atti amministrativi, la responsabilità giuridica, la
-*privacy*, la sicurezza informatica e la proprietà intellettuale.
+particolarmente complesso. Le tecniche di IA di maggiore tendenza
+necessitano di enormi quantità di dati per poter essere efficaci. Vi è
+dunque un notevole interesse economico alla raccolta di dati sensibili
+ed è necessario analizzare alcune delle principali questioni giuridiche
+che possono interessare l’IA. Tra queste: il principio di trasparenza
+degli atti amministrativi, la responsabilità giuridica, la *privacy*, la
+sicurezza informatica e la proprietà intellettuale [1]_.
 
 Nell’ambito delle attività della Pubblica amministrazione il principio
 di trasparenza è cardinale e perciò dovrà ispirare anche la
@@ -18,7 +19,7 @@ progettazione dei nuovi servizi pubblici basati su soluzioni di IA. A
 questo scopo, tra i criteri da utilizzare ci sono senza dubbio quello
 della trasparenza degli algoritmi, delle logiche di costruzione dei
 database su cui essi operano, e definire le correlate
-responsabilità [1]_.
+responsabilità [2]_.
 
 Già oggi gli algoritmi di IA possono incidere direttamente sulle
 valutazioni e sulle decisioni pubbliche, nonché sugli stessi
@@ -38,7 +39,9 @@ Pubblica amministrazione di fronte ad una serie di sfide:
 
 Per garantire la massima trasparenza, il cittadino dovrà essere messo in
 condizione di comprendere attraverso quale percorso il sistema IA è
-pervenuto a un determinato risultato [2]_.
+pervenuto a un determinato risultato [3]_, in modo sufficientemente
+chiaro da poter eventualmente riconoscere un errore di calcolo ed
+intervenire per ottenerne la correzione.
 
 L’utilizzo di dati sensibili da parte dei sistemi IA della Pubblica
 amministrazione può compromettere il diritto alla *privacy* del
@@ -47,7 +50,7 @@ caso in cui i dati raccolti vengono utilizzati per prevedere eventi
 d’interesse sociale, dalla gestione del traffico alla prevenzione del
 crimine. Una delle sfide è quella di evitare che l’utilizzo di dati da
 parte della PA generi un controllo sociale pervasivo in contrasto con i
-diritti fondamentali del cittadino.
+diritti fondamentali del cittadino [4]_.
 
 Quanto all’eventuale “minaccia” del diritto alla *privacy*, potrebbe
 essere necessaria l’implementazione di alcuni principi e strumenti
@@ -62,10 +65,10 @@ nella fase di progettazione dei *software*, facendo sì che i dati
 identificativi del cittadino siano anonimi o coperti da pseudonimo,
 ridotti al minimo indispensabile e che il loro utilizzo sia circoscritto
 a specifiche finalità. La sfida è chiaramente quella di trovare un
-bilanciamento tra lo sviluppo dell’Intelligenza Artificiale e il
-rispetto del diritto alla riservatezza dei cittadini, dando a questi
-ultimi la possibilità di esprimere il proprio consenso al trattamento di
-dati da parte dei sistemi intelligenti.
+bilanciamento tra l’utilizzo efficace dell’Intelligenza Artificiale a
+servizio dei cittadini e il rispetto del loro diritto alla riservatezza,
+dando a questi ultimi la possibilità di esprimere il proprio consenso
+informato al trattamento di dati da parte dei sistemi intelligenti.
 
 Per assicurare che le soluzioni di IA acquisite (o sviluppate) dalla
 Pubblica amministrazione rispettino quanto previsto dalle norme vigenti
@@ -85,21 +88,21 @@ la legittimità dell'attività dell'amministrazione.
 .. rubric:: Note
 
 .. [1]
-   Proprio a tal proposito il `Codice di Amministrazione
-   Digitale <http://cad.readthedocs.io>`__ (CAD) ha sancito il diritto
-   alla cultura digitale riconoscendo la necessità di azioni specifiche
-   e concrete di formazione a beneficio dei fruitori dei servizi, degli
-   operatori del diritto e all’interno delle varie istituzioni. Il CAD
-   ha inoltre istituito la figura del difensore civico digitale, al
-   quale il cittadino può inviare segnalazioni e reclami in caso di
-   inadempienze o violazioni connesse all’utilizzo di sistemi digitali
-   (potenzialmente anche di soluzioni IA) da parte dell’amministrazione
-   pubblica.
+   *Cfr*. la “Sfida etica”.
 
 .. [2]
+   A tal fine il `Codice di Amministrazione
+   Digitale <http://cad.readthedocs.io>`__ (CAD) ha istituito la figura
+   del difensore civico digitale, al quale il cittadino può inviare
+   segnalazioni e reclami in caso di inadempienze o violazioni connesse
+   all’utilizzo di sistemi digitali da parte dell’amministrazione
+   pubblica.
+
+.. [3]
    La giurisprudenza ha già sancito che - nel caso in cui algoritmi
-   vengano utilizzati per l'attività amministrativa - debba essere
-   sempre garantito il diritto di accesso all'algoritmo, in modo da
-   consentire di verificare che abbia agito correttamente e nel rispetto
-   delle leggi applicabili (*Cfr*. sentenza TAR Lazio-Roma, Sez.
-   III-bis, n. 3769/2017).
+   vengano utilizzati per l'attività amministrativa - deve essere sempre
+   garantito il diritto di accesso all'algoritmo (*Cfr*. sentenza TAR
+   Lazio-Roma, Sez. III-bis, n. 3769/2017).
+
+.. [4]
+   *Cfr*. la “Sfida ruolo dei dati”.
