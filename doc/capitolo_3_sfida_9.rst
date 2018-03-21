@@ -42,9 +42,9 @@ sviluppare, insieme e responsabilmente, una visione del mondo coerente
 con le novità che tali tecnologie portano con sé. In questo senso si
 esalta ancora di più il valore delle scienze sociali e della
 comunicazione pubblica rispetto alla costruzione di una narrazione
-prevalentemente strategica. Se il futuro è la conseguenza delle scelte
-operate nel presente non possiamo non porci il problema lasciando che
-l’interpretazione dello sviluppo tecnologico e delle sue conseguenze
+prevalentemente strategica [3]_. Se il futuro è la conseguenza delle
+scelte operate nel presente non possiamo non porci il problema lasciando
+che l’interpretazione dello sviluppo tecnologico e delle sue conseguenze
 sociali non sia presidiato.
 
 Diversi sono gli approcci che in maniera transdisciplinare concorrono
@@ -60,14 +60,14 @@ queste tecnologie.
 L’arte e il *design*, da un lato, hanno da sempre svolto un ruolo
 cruciale nel coinvolgere le persone all’interno di una narrativa comune.
 Dall'altro, hanno permesso i grandi processi di innovazione suggeriti
-dal non focalizzarsi sui bisogni, ma sulle aspirazioni [3]_, sul
+dal non focalizzarsi sui bisogni, ma sulle aspirazioni [4]_, sul
 desiderio e sull'immaginario. Storicamente l'Arte ha contribuito a
 disegnare nuovi immaginari e ad aprire nuove opportunità, innalzando il
 livello della critica e suscitando la partecipazione e il coinvolgimento
 delle persone, attraversando culture, classi sociali, professioni e
 competenze.
 
-Questo ruolo [4]_ è finalmente riconosciuto anche a livello europeo,
+Questo ruolo [5]_ è finalmente riconosciuto anche a livello europeo,
 grazie a programmi che utilizzano le arti per far entrare le innovazioni
 nell’immaginario comune, contribuendo a costruire un significato sociale
 positivo, condiviso e soprattutto consapevole rispetto ai vantaggi e
@@ -105,40 +105,58 @@ a livello internazionale, costruito proprio sulla capacità di
 iniziative in cui artisti e *designer* lavorino fianco a fianco con
 ricercatori, umanisti, ingegneri e manager in ambito di IA.
 
++--------------------------------------------------------------------------+
+| Box                                                                      |
+|                                                                          |
+| **Far crescere una comunità: la consultazione pubblica per la stesura    |
+| del Libro Bianco IA**                                                    |
+|                                                                          |
+| Il **Libro bianco IA** promosso dalla Task force IA è stato aperto alla  |
+| consultazione pubblica dal 13 febbraio al 12 marzo 2018 in una apposita  |
+| sezione del sito `https://ia.italia.it/ <https://ia.italia.it/>`__.      |
+|                                                                          |
+| Esperti, ricercatori, imprenditori, funzionari pubblici, professori      |
+| universitari e cittadini hanno contribuito con suggerimenti, commenti, e |
+| raccomandazioni condividendo esperienze, articoli e documenti con        |
+| diverse modalità:                                                        |
+|                                                                          |
+| -  attraverso l’apposita sezione presente a margine di ogni paragrafo    |
+|    del Libro bianco sulla piattaforma **Readthedocs**;                   |
+|                                                                          |
+| -  direttamente all’interno dei thread aperti allo scopo sulla           |
+|    **Community** della Task Force IA;                                    |
+|                                                                          |
+| -  attraverso la **casella email** intelligenza-artificiale@agid.gov.it; |
+|                                                                          |
+| -  attraverso l’apposito **form** predisposto per la segnalazione di     |
+|    **raccomandazioni**.                                                  |
+|                                                                          |
+| In totale sono stati visionati dalla Task Force IA più di 100 fra        |
+| commenti, contributi e raccomandazioni, moltissimi dei quali recepiti    |
+| nell’attuale versione del Libro bianco IA.                               |
++--------------------------------------------------------------------------+   
+
 .. discourse::
    :topic_identifier: 759
 
 .. rubric:: Note
 
 .. [1]
-   Robert Merton fu il primo ad adottare questa definizione nel 1948:
-   “una supposizione o profezia che per il solo fatto di essere stata
-   pronunciata, fa realizzare l'avvenimento presunto, aspettato o
-   predetto, confermando in tal modo la propria veridicità” (RKM, La
-   profezia che si autoavvera, in Teoria e Struttura Sociale, II,
-   Bologna, Il Mulino, 1971).
+   *Cfr.* Robert Merton, R.K, “\ *La profezia che si autoavvera*\ ”, in
+   Teoria e Struttura Sociale, vol. II. Il Mulino, 1971.
 
 .. [2]
-   Tra le numerose fonti in materia, si cita l’art. 10 “*Other
-   Facebook Experiments On Users, Rated On A Highly-Scientific WTF
-   Scale*”
-
-   `https://www.forbes.com/sites/kashmirhill/2014/07/10/facebook-experiments-on-users/#386e02291c3d <https://www.forbes.com/sites/kashmirhill/2014/07/10/facebook-experiments-on-users/#386e02291c3d>`__.
+   *Cfr.*
+   https://www.forbes.com/sites/kashmirhill/2014/07/10/facebook-experiments-on-users/#386e02291c3d.
 
 .. [3]
-   Nella pubblicazione "*Vision and trends of social innovation in
-   Europe*" la Commissione Europea afferma l'importanza del passaggio
-   dalla prospettiva del bisogno a quella dell'aspirazione, in un'ottica
-   di innovazione sociale.
-
-   `https://publications.europa.eu/en/publication-detail/-/publication/a97a2fbd-b7da-11e7-837e-01aa75ed71a1 <https://publications.europa.eu/en/publication-detail/-/publication/a97a2fbd-b7da-11e7-837e-01aa75ed71a1>`__.
+   *Cfr.* Sfida “Accompagnare la trasformazione”.
 
 .. [4]
-   Per esempio il programma STARTS della Commissione Europea; oppure il
-   programma delle arti al CERN; o quelli di Ars Electronica. Iniziative
-   capaci di coinvolgere centinaia di migliaia di persone, scuole e
-   università, artisti e designer di ogni disciplina, ricercatori e
-   industrie. Per non parlare delle iniziative tra le più prestigiose
-   università del mondo come MIT, Stanford, Carnegie Mellon, Royal
-   College of Arts, Cambridge e le tante università Cinesi e Indiane che
-   hanno già approntato percorsi formativi e di ricerca dedicati.
+   *Cfr.*
+   https://publications.europa.eu/en/publication-detail/-/publication/a97a2fbd-b7da-11e7-837e-01aa75ed71a1.
+
+.. [5]
+   Per esempio il programma STARTS della Commissione Europea e il
+   “Programma delle arti” al CERN.
+
