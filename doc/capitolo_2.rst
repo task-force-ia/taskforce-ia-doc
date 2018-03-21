@@ -139,7 +139,7 @@ nelle varie zone e ad altre variabili significative.
 | garantiti alcuni standard, sia per la sicurezza dei dati di cui si    |
 | nutrono gli algoritmi, sia per la sicurezza degli algoritmi stessi,   |
 | imponendo che, per la loro implementazione, venga sempre seguito il   |
-| paradigma *security by design*\  [10]_.                               |
+| paradigma *security by design*\  [9]_.                                |
 +-----------------------------------------------------------------------+
 
 Infine, anche i decisori pubblici possono servirsi di algoritmi
@@ -148,7 +148,7 @@ sulle risorse disponibili nelle aree disagiate, oppure sull’andamento
 dei vari settori - sanitario, giudiziario, scolastico, agroalimentare,
 etc. -, al fine di ottenere una visione più chiara delle scelte che
 devono o che vogliono compiere. È possibile, come si sta sperimentando
-in Giappone [11]_, che il personale degli uffici pubblici risponda in
+in Giappone [10]_, che il personale degli uffici pubblici risponda in
 maniera personalizzata a tutte le richieste dei cittadini, servendosi di
 strumenti di Intelligenza Artificiale adeguatamente istruiti, che
 producono automaticamente i contenuti da inviare.
@@ -169,17 +169,17 @@ strumenti e tecnologie.
 
 Con riferimento ai sistemi di apprendimento automatico (*machine
 learning*) accade già oggi che sia i dati di cui un’IA si nutre sia gli
-algoritmi da cui è composta producano *bias*\  [12]_ - interpretazioni
+algoritmi da cui è composta producano *bias*\  [11]_ - interpretazioni
 distorte delle informazioni in possesso - inficiando i
-“ragionamenti” [13]_ e inducendola in errore.
+“ragionamenti” [12]_ e inducendola in errore.
 
 Fare previsioni con strumenti progettati in modo inadeguato non può che
 portare a decisioni sbagliate e, in molti casi, anche eticamente
-scorrette [14]_.
+scorrette [13]_.
 
 Inoltre, è bene sottolineare che allo stato attuale l’Intelligenza
 Artificiale è in grado di portare a compimento, con una certa
-precisione, un ristretto numero di attività cognitive [15]_ riferite a
+precisione, un ristretto numero di attività cognitive [14]_ riferite a
 specifici ambiti settoriali, mancando generalmente di conoscenze di
 sfondo (*background knowledge*).
 
@@ -204,7 +204,7 @@ La PA potrà, inoltre, avvalersi delle metodologie e delle tecnologie di
 IA per supportare la razionalizzazione e l’integrazione delle proprie
 basi dati, in una prospettiva di interoperabilità semantica che renda
 più semplice circolazione delle informazioni tra le amministrazioni a
-beneficio degli utenti finali [16]_.
+beneficio degli utenti finali [15]_.
 
 L’enorme patrimonio di conoscenza generata e raccolta nel tempo in tali
 basi di dati è spesso “invisibile”, perché destrutturato, disperso in
@@ -273,28 +273,24 @@ per una migliore lettura del resto del documento.**
    algoritmi di Intelligenza Artificiale.
 
 .. [10]
-   In sostanza, questo paradigma prevede che la sicurezza venga
-   perseguita già al momento del design delle banche dati e degli
-   algoritmi di Intelligenza Artificiale.
-
-.. [11]
    Hila Mehr, *Artificial Intelligence for Citizen Services and
    Government*, Harvard Ash Center for Democratic Governance and
    Innovation, 2017, p. 8.
 
-.. [12]
+.. [11]
    *Cfr*. “\ *Bias and inclusion*\ ”, AI NOW 2017 Report, p. 14.
 
-.. [13]
+.. [12]
    *Cfr.* box di approfondimento in “Prevenire le diseguaglianze”.
 
-.. [14]
+.. [13]
    *Cfr*. “Sfida Etica”.
 
-.. [15]
+.. [14]
    Per approfondimenti
    https://hbr.org/2016/11/what-artificial-intelligence-can-and-cant-do-right-now.
 
-.. [16]
+.. [15]
    *Cfr*. Il modello d’interoperabilità del Piano Triennale:
    https://pianotriennale-ict.italia.it/interoperabilita.
+
