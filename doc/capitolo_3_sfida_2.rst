@@ -118,36 +118,6 @@ qui possiamo menzionare:
    nocive; analogamente possibile definire indicatori per incendi,
    alluvioni, crolli, etc.).
 
-+-----------------------------------------------------------------------+
-| Box                                                                   |
-|                                                                       |
-| Il tema dell’IA è decisamente vasto ed ovviamente ogni area di        |
-| applicazione ha le sue peculiarità e ricerche di frontiera. A titolo  |
-| esemplificativo si segnalano quelle sulla cosiddetta *one-shot        |
-| learning*, cioè la capacità di apprendere da un solo esempio, ed il   |
-| reinforcement learning per apprendere strategie di comportamento;     |
-| infine le *Strong AI*, legate alla *Neuro Evolution* e alla *Brain    |
-| Intelligence*. Nella *Neuro Evolution* si tratta di simulare qualcosa |
-| di simile all’autocoscienza. La *Brain Intelligence* è invece una     |
-| tecnica molto promettente che ha l’ambizione di poter creare sistemi  |
-| di IA che comunicano spontaneamente tra loro. In questo modo, si      |
-| spera di risolvere tre problemi tipici dell'Intelligenza Artificiale  |
-| (nella sua declinazione di “intelligenza generalizzata”):             |
-|                                                                       |
-| -  quello del *frame* (non basta saper vincere a scacchi o essere     |
-|    in grado di scrivere articoli giornalistici di senso compiuto a    |
-|    partire dai *big data*, ma è necessario saper fare queste due cose |
-|    insieme a molte altre);                                            |
-|                                                                       |
-| -  il **problema associativo** (la IA non sa fare associazioni        |
-|    spontanee, come invece fa l'uomo, ma ha bisogno che siano gli      |
-|    uomini a farle per lei);                                           |
-|                                                                       |
-| -  il **problema simbolico** (la IA non sa capire per cosa stanno i   |
-|    segni che elabora, ma solo quelli che ricorrono statisticamente    |
-|    con altri segni). [4]_                                             |
-+-----------------------------------------------------------------------+
-
 .. discourse::
    :topic_identifier: 752
    
