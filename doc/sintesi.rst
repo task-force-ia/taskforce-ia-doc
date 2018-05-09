@@ -225,7 +225,7 @@ nostra società.
 |Eudaimonia (gr. εὐδαιμονία, lett. “essere in compagnia di un buon       |
 |demone”), come illustrato da Aristotele, definisce il benessere umano   |
 |come la più alta virtù per una società. Eudaimonia può significare      |
-|anche"prosperità", in quanto denota una condizione complessiva di       |
+|anche “prosperità”, in quanto denota una condizione complessiva di       |
 |benessere in cui l’essere umano percepisce i propri benefici a partire  |
 |dalla contemplazione cosciente delle considerazioni etiche che ci       |
 |aiutano a definire come desideriamo vivere.                             |
